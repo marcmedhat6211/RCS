@@ -5,14 +5,14 @@
     <header id="header" class="header">
         <div class="header-content">
             <div class="container">
-                <div class="row">
+                 <div class="row">
                     <div class="col-lg-12">
-                        <div class="text-container">
-                            <h1>BUSINESS <span id="js-rotating">TEMPLATE, SERVICES, SOLUTIONS</span></h1>
+                        <!-- <div class="text-container"> -->
+                            <!-- <h1>BUSINESS <span id="js-rotating">TEMPLATE, SERVICES, SOLUTIONS</span></h1> -->
                             <!-- <h1>Reliance Compliance Solutions</h1> -->
-                            <p class="p-heading p-large">RCS is a top consultancy company specializing in business growth using online marketing and conversion optimization tactics</p>
-                            <a class="btn-solid-lg page-scroll" href="#intro">DISCOVER</a>
-                        </div>
+                            <!-- <p class="p-heading p-large">RCS is a top consultancy company specializing in business growth using online marketing and conversion optimization tactics</p> -->
+                            <a style="margin-top: 1px; position: absolute; top: 2; right: 0;" class="btn-solid-lg page-scroll" href="/contact">SCHEDULE A CONSULTATION TODAY</a>
+                        <!-- </div> -->
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->
             </div> <!-- end of container -->
@@ -20,23 +20,19 @@
     </header> <!-- end of header -->
     <!-- end of header -->
 
-
     <!-- Intro -->
     <div id="intro" class="basic-1">
         <div class="container">
             <div class="row">
                 <div class="col-lg-5">
                     <div class="text-container">
-                        <div class="section-title">INTRO</div>
-                        <h2>We Offer Some Of The Best Business Growth Services In Town</h2>
-                        <p>Launching a new company or developing the market position of an existing one can be quite an overwhelming processs at times.</p>
-                        <p class="testimonial-text">"Our mission here at Aira is to get you through those tough moments relying on our team's expertise in starting and growing companies."</p>
-                        <div class="testimonial-author">Peter Safwat - CEO</div>
+                        <p>Our team of Certified AML Specialists has over 10 years experience in the industry and is ready to assist you with all your compliance 		and AML needs. We have a passion for helping others and seeing them succeed.  </p>
+                        <a class="btn-solid-lg page-scroll" href="/about">MEET THE TEAM</a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-7">
                     <div class="image-container">
-                        <img class="img-fluid" src="images/intro-office.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/compliance-wallpaper-16.jpg" alt="alternative">
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->

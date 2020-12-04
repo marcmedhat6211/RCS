@@ -5,8 +5,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="section-title">SERVICES</div>
-                    <h2>Choose The Service Package<br> That Suits Your Needs</h2>
+                    <div class="section-title"><h1>SERVICES</h1></div>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
             <div class="row">
@@ -14,79 +13,82 @@
                     
                     <!-- Card -->
                     <div class="card">
-                        <div class="card-image">
-                            <img class="img-fluid" src="images/services-1.jpg" alt="alternative">
-                        </div>
                         <div class="card-body">
-                            <h3 class="card-title">Off The Ground Off The Ground</h3>
-                            <p>Perfect for fresh ideas or young startups, this package will help get the business off the ground</p>
-                            <ul class="list-unstyled li-space-lg">
-                                <li class="media">
-                                    <i class="fas fa-square"></i>
-                                    <div class="media-body">Environment and competition</div>
-                                </li>
-                                <li class="media">
-                                    <i class="fas fa-square"></i>
-                                    <div class="media-body">Designing the marketing plan</div>
-                                </li>
-                            </ul>
-                            <!-- <p class="price">Starting at <span>$199</span></p> -->
+                            <h3 class="card-title">Act as Compliance Officer or Chief AML Officer to your company</h3>
+                            <p>We assign one of our CAMS AML geeks to act as your Compliance officer or Chief AML Officer depending on your needs.</p>
                         </div>
-                        <!-- <div class="button-container">
-                            <a class="btn-solid-reg page-scroll" href="#callMe">DETAILS</a>
-                        </div> end of button-container -->
                     </div>
                     <!-- end of card -->
 
                     <!-- Card -->
                     <div class="card">
-                        <div class="card-image">
-                            <img class="img-fluid" src="images/services-2.jpg" alt="alternative">
-                        </div>
                         <div class="card-body">
-                            <h3 class="card-title">Accelerated Growth</h3>
-                            <p>Use this service pack to give your company the necessary impulse to become an industry leader</p>
-                            <ul class="list-unstyled li-space-lg">
-                                <li class="media">
-                                    <i class="fas fa-square"></i>
-                                    <div class="media-body">Business strategy planning</div>
-                                </li>
-                                <li class="media">
-                                    <i class="fas fa-square"></i>
-                                    <div class="media-body">Taking the planned actions</div>
-                                </li>
-                            </ul>
-                            <!-- <p class="price">Starting at <span>$299</span></p> -->
+                            <h3 class="card-title">Compliance Regime Development/Build up</h3>
+                            <p>We can build your compliance regime from scratch or we can assist you in amending yours to be compliant with the current regulations at the time.</p>
                         </div>
-                        <!-- <div class="button-container">
-                            <a class="btn-solid-reg page-scroll" href="#callMe">DETAILS</a>
-                        </div> end of button-container -->
                     </div>
                     <!-- end of card -->
 
                     <!-- Card -->
                     <div class="card">
-                        <div class="card-image">
-                            <img class="img-fluid" src="images/services-3.jpg" alt="alternative">
-                        </div>
                         <div class="card-body">
-                            <h3 class="card-title">Market Domination</h3>
-                            <p>You already are a reference point in your industry now you need to learn about acquisitions</p>
-                            <ul class="list-unstyled li-space-lg">
-                                <li class="media">
-                                    <i class="fas fa-square"></i>
-                                    <div class="media-body">Maintaining the leader status</div>
-                                </li>
-                                <li class="media">
-                                    <i class="fas fa-square"></i>
-                                    <div class="media-body">Acquisitions the right way</div>
-                                </li>
-                            </ul>
-                            <!-- <p class="price">Starting at <span>$299</span></p> -->
+                            <h3 class="card-title">AML Program Development/Build up</h3>
+                            <p>We can build your AML program from scratch (policies, operation, third party technology platforms) or we can assist you in enhancing your current program to address specific issues.</p>
                         </div>
-                        <!-- <div class="button-container">
-                            <a class="btn-solid-reg page-scroll" href="#callMe">DETAILS</a>
-                        </div> end of button-container -->
+                    </div>
+                    <!-- end of card -->
+
+                    <!-- Card -->
+                    <div class="card">
+                        <div class="card-body">
+                            <h3 class="card-title">Policy Reviews/Write up</h3>
+                            <p>We  draft up new policies for your company relating to compliance, AML, RBA, Sanctions and ABC or we can review yours and make amendments.</p>
+                        </div>
+                    </div>
+                    <!-- end of card -->
+
+                    <!-- Card -->
+                    <div class="card">
+                        <div class="card-body">
+                            <h3 class="card-title">AML/Compliance effectiveness reviews</h3>
+                            <p>We conduct thorough AML/Compliance effectiveness reviews to your program as mandated by FINTRAC every 2 years. we also provide solutions to any findings in our reviews for an additional fee.</p>
+                        </div>
+                    </div>
+                    <!-- end of card -->
+
+                    <!-- Card -->
+                    <div class="card">
+                        <div class="card-body">
+                            <h3 class="card-title">Assist with Regulatory Exams (FINTRAC/AMF)</h3>
+                            <p>we assist by prepping you for the exam interview as well as helping you gather all the necessary reports/documents to be presented for the exam </p>
+                        </div>
+                    </div>
+                    <!-- end of card -->
+
+                    <!-- Card -->
+                    <div class="card">
+                        <div class="card-body">
+                            <h3 class="card-title">Draft action plan to address exam findings</h3>
+                            <p>we assist by drafting up an action plan to address any findings from your exam and advise on how it can be amended/implemented in your policies or program.</p>
+                        </div>
+                    </div>
+                    <!-- end of card -->
+
+                    <!-- Card -->
+                    <div class="card">
+                        <div class="card-body">
+                            <h3 class="card-title">Assist with Banking partner audit</h3>
+                            <p>we assist by prepping you for the banking audit process as well as helping you gather all the necessary reports/documents to be presented for the audit. we also assist with your banking partner inquires about your program.</p>
+                        </div>
+                    </div>
+                    <!-- end of card -->
+
+                    <!-- Card -->
+                    <div class="card">
+                        <div class="card-body">
+                            <h3 class="card-title">Act as AMF Respondent</h3>
+                            <p>We assign one of our team members in Quebec to act as your AMF respondent for communication and document filing purposes between your company and the AMF</p>
+                        </div>
                     </div>
                     <!-- end of card -->
 

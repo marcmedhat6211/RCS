@@ -105,4 +105,4 @@
         </div> <!-- end of container -->
     </div> <!-- end of slider -->
     <!-- end of testimonials -->
-    @ensection
+    @endsection
