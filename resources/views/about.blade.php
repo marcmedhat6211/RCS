@@ -1,12 +1,72 @@
     @extends('layouts.app')
     @section('content')
+
+    <!-- About -->
+    <div id="about" class="counter">
+        <div style="width:800px; margin:0 auto;" class="container">
+            <!-- <div class="row"> -->
+                <!-- <div class="col-lg-7 col-xl-6"> -->
+                    <!-- <div class="text-container"> -->
+                        <!-- <div  class="section-title">ABOUT</div> -->
+                        <center><h1>About</h1></center>
+                        <p>	Reliance Compliance Solutions Inc. (RCS) is a consulting company that was founded in 2020 and is 
+                            based in Toronto, Ontario with a focus of delivering exceptional compliance solutions to various 
+                            reporting entities such as Banks. Credit Unions, MSBs, Virtual currency dealers and real estate 
+                            firms.<br><br>We specialize in Regulatory compliance, Anti Money Laundering and Counter Terrorist Financing 
+                            and we offer a variety of services such as:</p>
+                        <ul class="list-unstyled li-space-lg">
+                            <li class="media">
+                                <i class="fas fa-square"></i>
+                                <div class="media-body">Compliance Regime Development/Build up</div>
+                            </li>
+                            <li class="media">
+                                <i class="fas fa-square"></i>
+                                <div class="media-body">AML Program Development/Build up</div>
+                            </li>
+                            <li class="media">
+                                <i class="fas fa-square"></i>
+                                <div class="media-body">Policy reviews/write up</div>
+                            </li>
+                            <li class="media">
+                                <i class="fas fa-square"></i>
+                                <div class="media-body">AML/Compliance effectiveness reviews</div>
+                            </li>
+                            <li class="media">
+                                <i class="fas fa-square"></i>
+                                <div class="media-body">Assist with regulatory exams (FINTRAC/AMF)</div>
+                            </li>
+                            <li class="media">
+                                <i class="fas fa-square"></i>
+                                <div class="media-body">Draft action plans to address examination findings</div>
+                            </li>
+                            <li class="media">
+                                <i class="fas fa-square"></i>
+                                <div class="media-body">Assist with Banking partner audits</div>
+                            </li>
+                            <li class="media">
+                                <i class="fas fa-square"></i>
+                                <div class="media-body">Act as AMF respondent</div>
+                            </li>
+                            <li class="media">
+                                <i class="fas fa-square"></i>
+                                <div class="media-body">Act as Compliance Officer or Chief AML Officer to your company</div>
+                            </li>
+                        </ul>
+
+                    <!-- </div> end of text-container       -->
+                <!-- </div> end of col -->
+            <!-- </div> end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of counter -->
+    <!-- end of about -->
+
     <!-- Team -->
-    <div class="basic-2">
+    <div class="basic-2" id="team">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>Our Team Of Consultants</h2>
-                    <p class="p-heading">We're only as strong and as knowledgeable as our team. So here are the men and women which help customers meet goals and grow companies</p>
+                    <h1>The Team</h1>
+                    <br>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
             <div class="row">
@@ -14,11 +74,12 @@
 
                     <!-- Team Member -->
                     <div class="team-member">
+                    <br>
                         <div class="image-wrapper">
                             <img class="img-fluid" src="images/team-1.png" alt="alternative">
                         </div> <!-- end of image-wrapper -->
-                        <p class="p-large">John Whitelong</p>
-                        <p class="job-title">General Manager</p>
+                        <p class="p-large">Mary Daoud</p>
+                        <p class="job-title">Founder and CEO</p>
                         <span class="social-icons">
                             <span class="fa-stack">
                                 <a href="#your-link">
@@ -38,11 +99,12 @@
 
                     <!-- Team Member -->
                     <div class="team-member">
+                    <br>
                         <div class="image-wrapper">
                             <img class="img-fluid" src="images/team-2.png" alt="alternative">
                         </div> <!-- end of image wrapper -->
-                        <p class="p-large">Veronique Smith</p>
-                        <p class="job-title">Business Developer</p>
+                        <p class="p-large">Peter Morcos<br>MSc, CAMS, CFCS, CFE, CFI, CBP</p>
+                        <p class="job-title">cco and CAMLO</p>
                         <span class="social-icons">
                             <span class="fa-stack">
                                 <a href="#your-link">
@@ -62,11 +124,12 @@
 
                     <!-- Team Member -->
                     <div class="team-member">
+                    <br>
                         <div class="image-wrapper">
                             <img class="img-fluid" src="images/team-3.png" alt="alternative">
                         </div> <!-- end of image wrapper -->
-                        <p class="p-large">Chris Zimerman</p>
-                        <p class="job-title">Online Marketer</p>
+                        <p class="p-large">Fady Nicolas<br>MBA</p>
+                        <p class="job-title">coo</p>
                         <span class="social-icons">
                             <span class="fa-stack">
                                 <a href="#your-link">
@@ -89,8 +152,56 @@
                         <div class="image-wrapper">
                             <img class="img-fluid" src="images/team-4.png" alt="alternative">
                         </div> <!-- end of image wrapper -->
-                        <p class="p-large">Mary Villalonga</p>
-                        <p class="job-title">Community Manager</p>
+                        <p class="p-large">Jonathan Gitiya<br>CAMS, CFE, CBP</p>
+                        <p class="job-title">Compliance & AML Consultant</p>
+                        <span class="social-icons">
+                            <span class="fa-stack">
+                                <a href="#your-link">
+                                    <span class="hexagon"></span>
+                                    <i class="fab fa-facebook-f fa-stack-1x"></i>
+                                </a>
+                            </span>
+                            <span class="fa-stack">
+                                <a href="#your-link">
+                                    <span class="hexagon"></span>
+                                    <i class="fab fa-twitter fa-stack-1x"></i>
+                                </a>
+                            </span>
+                        </span>
+                    </div> <!-- end of team-member -->
+                    <!-- end of team member -->
+
+                    <!-- Team Member -->
+                    <div class="team-member">
+                        <div class="image-wrapper">
+                            <img class="img-fluid" src="images/team-4.png" alt="alternative">
+                        </div> <!-- end of image wrapper -->
+                        <p class="p-large">Mira Hanna</p>
+                        <p class="job-title">Administrative & AMF Respondent</p>
+                        <span class="social-icons">
+                            <span class="fa-stack">
+                                <a href="#your-link">
+                                    <span class="hexagon"></span>
+                                    <i class="fab fa-facebook-f fa-stack-1x"></i>
+                                </a>
+                            </span>
+                            <span class="fa-stack">
+                                <a href="#your-link">
+                                    <span class="hexagon"></span>
+                                    <i class="fab fa-twitter fa-stack-1x"></i>
+                                </a>
+                            </span>
+                        </span>
+                    </div> <!-- end of team-member -->
+                    <!-- end of team member -->
+
+                                        <!-- Team Member -->
+                                        <div class="team-member">
+                        <div class="image-wrapper">
+                            <img class="img-fluid" src="images/team-4.png" alt="alternative">
+                        </div> <!-- end of image wrapper -->
+                        <p class="p-large">Claudius Otegbade<br>FCA, CAMS, CFCS, CFE, CFI</p>
+                        <p class="job-title">Volunteer Advisor</p>
                         <span class="social-icons">
                             <span class="fa-stack">
                                 <a href="#your-link">
@@ -114,53 +225,4 @@
     </div> <!-- end of basic-2 -->
     <!-- end of team -->
 
-
-    <!-- About -->
-    <div id="about" class="counter">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5 col-xl-6">
-                    <div class="image-container">
-                        <img class="img-fluid" src="images/about.jpg" alt="alternative">
-                    </div> <!-- end of image-container -->
-                </div> <!-- end of col -->
-                <div class="col-lg-7 col-xl-6">
-                    <div class="text-container">
-                        <div class="section-title">ABOUT</div>
-                        <h2>We're Passionate About Delivering Growth Services</h2>
-                        <p>Our goal is to provide the right business growth services at the appropriate time so companies can benefit from the created momentum and thrive for a long period of time</p>
-                        <ul class="list-unstyled li-space-lg">
-                            <li class="media">
-                                <i class="fas fa-square"></i>
-                                <div class="media-body">Everything we recommend has direct positive impact</div>
-                            </li>
-                            <li class="media">
-                                <i class="fas fa-square"></i>
-                                <div class="media-body">You will become an important partner of our company</div>
-                            </li>
-                        </ul>
-
-                        <!-- Counter -->
-                        <div id="counter">
-                            <div class="cell">
-                                <div class="counter-value number-count" data-count="231">1</div>
-                                <div class="counter-info">Happy<br>Users</div>
-                            </div>
-                            <div class="cell">
-                                <div class="counter-value number-count" data-count="121">1</div>
-                                <div class="counter-info">Issues<br>Solved</div>
-                            </div>
-                            <div class="cell">
-                                <div class="counter-value number-count" data-count="159">1</div>
-                                <div class="counter-info">Good<br>Reviews</div>
-                            </div>
-                        </div>
-                        <!-- end of counter -->
-
-                    </div> <!-- end of text-container -->      
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of counter -->
-    <!-- end of about -->
     @endsection
