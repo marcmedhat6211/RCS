@@ -5,7 +5,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <div class="section-title"><h1>Clients we serve</h1></div>
+                <div class="section-title"><h1>Our Clients</h1></div>
+                <br>
             </div> <!-- end of col -->
         </div> <!-- end of row -->
         <div class="row">
@@ -17,7 +18,7 @@
                         <h3 class="card-title">Banks</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/services-1.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/Bank.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -28,7 +29,18 @@
                         <h3 class="card-title">Credit Unions</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/services-1.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/Credit Union.jpg" alt="alternative">
+                    </div>
+                </div>
+                <!-- end of card -->
+
+                <!-- Card -->
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Financial Services</h3>
+                    </div>
+                    <div class="card-image">
+                        <img class="img-fluid" src="images/Financial Services.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -39,7 +51,7 @@
                         <h3 class="card-title">Money Services Businesses</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/services-1.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/MSB.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -50,7 +62,7 @@
                         <h3 class="card-title">Dealers in Virtual Currencies</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/services-1.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/Virtual currency.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -61,21 +73,13 @@
                         <h3 class="card-title">Dealers in Precious Metals & Stones</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/services-1.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/Precious metals and stones.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
 
-                <!-- Card -->
-                <div class="card">
-                    <div class="card-body">
-                        <h3 class="card-title">Real Estate</h3>
-                    </div>
-                    <div class="card-image">
-                        <img class="img-fluid" src="images/services-1.jpg" alt="alternative">
-                    </div>
-                </div>
-                <!-- end of card -->
+
+
 
             </div> <!-- end of col -->
         </div> <!-- end of row -->

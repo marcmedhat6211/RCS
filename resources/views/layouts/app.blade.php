@@ -52,7 +52,7 @@
 
         <!-- Image Logo -->
         <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a> -->
-        <h4 style="color: purple;">RCS</h4>
+        <h4 style="color: white;">Reliance Compliance Solutions</h4>
         
         <!-- Mobile Menu Toggle Button -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
@@ -66,34 +66,20 @@
                 <li class="nav-item">
                     <a class="nav-link page-scroll" href="/">HOME <span class="sr-only">(current)</span></a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link page-scroll" href="/services">SERVICES</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link page-scroll" href="/clients">CLIENTS</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link page-scroll" href="/about">ABOUT</a>
-                </li>
+                        <li class="nav-item">
+                            <a class="nav-link page-scroll" href="/about">ABOUT</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link page-scroll" href="/clients">CLIENTS</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link page-scroll" href="/services">SERVICES</a>
+                        </li>
 
                 <li class="nav-item">
                     <a class="nav-link page-scroll" href="/contact">CONTACT</a>
                 </li>
             </ul>
-            <span class="nav-item social-icons">
-                <span class="fa-stack">
-                    <a href="#your-link">
-                        <span class="hexagon"></span>
-                        <i class="fab fa-facebook-f fa-stack-1x"></i>
-                    </a>
-                </span>
-                <span class="fa-stack">
-                    <a href="#your-link">
-                        <span class="hexagon"></span>
-                        <i class="fab fa-twitter fa-stack-1x"></i>
-                    </a>
-                </span>
-            </span>
         </div>
     </nav> <!-- end of navbar -->
     <!-- end of navbar -->
