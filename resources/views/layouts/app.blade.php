@@ -52,8 +52,10 @@
 
         <!-- Image Logo -->
         <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a> -->
-        <h4 style="color: white;">Reliance Compliance Solutions</h4>
-        
+        <h4 style="color: white;"><span style="color: purple;">R</span>eliance <span style="color: purple;">C</span>ompliance <span style="color: purple;">S</span>olutions</h4>
+        <!-- <h4 id="js-rotating">
+            <span><h4 style="color: purple;">RCS</h4></span>,      <span><h4 style="color: purple;">R</h4><h4 style="color: white;">eliance</h4><h4 style="color: purple;">C</h4><h4 style="color: white;">ompliance</h4><h4 style="color: purple;">S</h4><h4 style="color: white;">olutions</h4></span>
+        </h4> -->
         <!-- Mobile Menu Toggle Button -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-awesome fas fa-bars"></span>
