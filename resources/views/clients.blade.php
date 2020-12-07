@@ -29,7 +29,7 @@
                         <h3 class="card-title">Credit Unions</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/Credit Union.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/cu.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -62,7 +62,7 @@
                         <h3 class="card-title">Dealers in Virtual Currencies</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/Virtual currency.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/vc.png" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -73,7 +73,7 @@
                         <h3 class="card-title">Dealers in Precious Metals & Stones</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/Precious metals and stones.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/pm.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->

@@ -24,7 +24,13 @@
             <div class="col-lg-5">
                 <!-- form -->
                 <div style="display: none;" id="contact" class="container">
-                    <form action="/action_page.php">
+                    @if(Session::has('message_sent'))
+                        <div class="alert alert-success" role="alert">
+                            {{ Session::get('message_sent') }}
+                        </div>
+                    @endif
+                    <form method="POST" action="{{ route('contact.send') }}" enctype="multipart/form-data">
+                        @csrf
                         <div class="form-group">
                             <input type="text" class="form-control" id="name" placeholder="Name*" name="name">
                         </div>
@@ -39,7 +45,7 @@
                         </div>
                         <!-- <button type="submit" class="btn btn-primary">Submit</button> -->
                         <button type="submit" class="btn-solid-lg page-scroll" href="">Send Message</button>
-                        <button type="button" onclick="cancel()" class="btn btn-danger">Cancel</button>
+                        <button type="button" onclick="cancel()" class="btn-solid-lg btn-danger">Cancel</button>
                     </form>
                 </div>
                 <!-- end of form -->

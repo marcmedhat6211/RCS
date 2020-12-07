@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ContactController;
 
 /*
 |--------------------------------------------------------------------------
@@ -28,12 +29,15 @@ Route::get('/about', function() {
     return view('about');
 });
 
-/*CONTACT ROUTE*/
-Route::get('/contact', function() {
-    return view('contact');
-});
-
 /*CLIENTS ROUTE*/
 Route::get('/clients', function() {
     return view('clients');
 });
+
+/*CONTACT ROUTE*/
+// Route::get('/contact', 'ContactController@contact');
+Route::get('/contact', [ContactController::class, 'contact']);
+
+/*CONTACT FORM ROUTE*/
+// Route::post('/send-message', 'ContactController@sendEmail')->name('contact.send');
+Route::post('/send-message', [ContactController::class, 'sendEmail'])->name('contact.send');

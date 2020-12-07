@@ -34,8 +34,8 @@
                     <!-- Card3 -->
                     <div class="card">
                         <div class="card-body">
-                            <h3 class="card-title">AML Program Development/Build up</h3>
-                            <p>We can build your AML program from scratch (policies, operation, third party technology platforms) or we can assist you in enhancing your current program to address specific issues.<br><br></p>
+                            <h3 class="card-title">AML Program Development</h3>
+                            <p>We can build your AML program from scratch (policies, operation, third party technology platforms) or we can assist you in enhancing your current program to address specific issues.<br><br><br></p>
                         </div>
                     </div>
                     <!-- end of card -->
@@ -43,8 +43,8 @@
                     <!-- Card2 -->
                     <div class="card">
                         <div class="card-body">
-                            <h3 class="card-title">Compliance Regime Development/Build up</h3>
-                            <p>We can build your compliance regime from scratch or we can assist you in amending yours to be compliant with the current regulations at the time.</p>
+                            <h3 class="card-title">Compliance Regime Development</h3>
+                            <p>We can build your compliance regime from scratch or we can assist you in amending yours to be compliant with the current regulations at the time. <br><br> </p>
                         </div>
                     </div>
                     <!-- end of card -->
@@ -62,8 +62,8 @@
                     <!-- Card1 -->
                     <div class="card">
                         <div class="card-body">
-                            <h3 class="card-title">Act as Compliance Officer or Chief AML Officer</h3>
-                            <p>We assign one of our CAMS AML geeks to act as your Compliance officer or Chief AML Officer depending on your needs.<br><span style="font-size: 12px"> **Terms & Conditions Apply**</span></p>
+                            <h3 class="card-title">Act as Compliance Officer or CAMLO</h3>
+                            <p>We assign one of our CAMS AML geeks to act as your Compliance officer or Chief AML Officer depending on your needs.<br><span style="font-size: 12px"> **Terms & Conditions Apply**</span> <br><br> </p>
                         </div>
                     </div>
                     <!-- end of card -->
