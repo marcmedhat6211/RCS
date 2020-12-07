@@ -13,6 +13,12 @@
     }
 </script>
 
+<style>
+    .invalid-feedback {
+        display: block;
+    }
+</style>
+
 <!-- contact -->
 <div id="intro" class="basic-1">
     <center>
@@ -23,7 +29,7 @@
         <div class="row">
             <div class="col-lg-5">
                 <!-- form -->
-                <div style="display: none;" id="contact" class="container">
+                <div  id="contact" class="container">
                     @if(Session::has('message_sent'))
                         <div class="alert alert-success" role="alert">
                             {{ Session::get('message_sent') }}
@@ -32,24 +38,35 @@
                     <form method="POST" action="{{ route('contact.send') }}" enctype="multipart/form-data">
                         @csrf
                         <div class="form-group">
-                            <input type="text" class="form-control" id="name" placeholder="Name*" name="name">
+                            <input type="text" value="{{ old('name') }}" class="form-control" id="name" placeholder="Name*" name="name">
+                            @if($errors->has('name'))
+                                <small class="form-text invalid-feedback">{{ $errors->first('name') }}</small>
+                            @endif
                         </div>
                         <div class="form-group">
-                            <input type="email" class="form-control" id="email" placeholder="Email*" name="email">
+                            <input type="email" value="{{ old('email') }}" class="form-control" id="email" placeholder="Email*" name="email">
+                            @if($errors->has('email'))
+                                <small class="form-text invalid-feedback">{{ $errors->first('email') }}</small>
+                            @endif
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control" id="business" placeholder="Business Name*" name="business">
+                            <input type="text" value="{{ old('business') }}" class="form-control" id="business" placeholder="Business Name*" name="business">
+                            @if($errors->has('business'))
+                                <small class="form-text invalid-feedback">{{ $errors->first('business') }}</small>
+                            @endif
                         </div>
                         <div class="form-group">
-                            <textarea class="form-control" rows="5" id="message" name="message" placeholder="Tell us a bit about your needs so we can get you started*"></textarea>
-                        </div>
-                        <!-- <button type="submit" class="btn btn-primary">Submit</button> -->
-                        <button type="submit" class="btn-solid-lg page-scroll" href="">Send Message</button>
+                            <textarea class="form-control" value="{{ old('message') }}" rows="5" id="message" name="message" placeholder="Tell us a bit about your needs so we can get you started*"></textarea>
+                            @if($errors->has('message'))
+                                <small class="form-text invalid-feedback">{{ $errors->first('message') }}</small>
+                            @endif
+                        </div>                      
+                        <button type="submit" class="btn-solid-lg page-scroll" href="#contact">Send Message</button>
                         <button type="button" onclick="cancel()" class="btn-solid-lg btn-danger">Cancel</button>
                     </form>
                 </div>
                 <!-- end of form -->
-                <div class="text-container" id="info">
+                <div style="display: none;" class="text-container" id="info">
                     <p>Where does your business need more support? We offer a broad range of services and packages that
                         be
                         customized to your needs. Send us a message today, and we can start you on a path to success.

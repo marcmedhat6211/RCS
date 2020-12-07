@@ -13,6 +13,14 @@ class ContactController extends Controller
     }
 
     public function sendEmail(Request $request) {
+
+        $this->validate($request, [
+            'name' => 'required|min:2|max:50',
+            'email' => 'required|email',
+            'business' => 'required',
+            'message' => 'required'
+        ]);
+
         $details = [
             'name' => $request->name,
             'email' => $request->email,
