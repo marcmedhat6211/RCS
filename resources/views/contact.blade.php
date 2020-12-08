@@ -13,11 +13,21 @@
     // }
 </script>
 
-<!-- <style>
-    .invalid-feedback {
-        display: block;
-    }
-</style> -->
+<style>
+    .map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+</style>
 
 <!-- contact -->
 <div id="intro" class="basic-1">
@@ -91,9 +101,11 @@
 </div> <!-- end of basic-1 -->
 
 <div class="container">
+<div class="map-responsive">
     <iframe
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2883.2865082950652!2d-79.40501104950401!3d43.725374655677044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b32dd647aaaaf%3A0x22208ce94ddcb032!2s3080%20Yonge%20St%2C%20Toronto%2C%20ON%20M4N%203N1%2C%20Canada!5e0!3m2!1sen!2seg!4v1607200012966!5m2!1sen!2seg"
         width="1100" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false"
         tabindex="0"></iframe>
+</div>
 </div>
 @endsection
