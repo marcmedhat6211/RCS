@@ -28,7 +28,6 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-5">
-                <!-- form -->
                 <!-- <div  id="contact" class="container">
                     @if(Session::has('message_sent'))
                         <div class="alert alert-success" role="alert">
@@ -65,7 +64,6 @@
                         <button type="button" onclick="cancel()" class="btn-solid-lg">Cancel</button>
                     </form>
                 </div> -->
-                <!-- end of form -->
                 <div class="text-container" id="info">
                     <p>Where does your business need more support? We offer a broad range of services and packages that
                         be
