@@ -3,7 +3,7 @@
     @section('content')
     <style>
         .button-resp {
-            max-width: 70%
+            max-width: 90%
         }
     </style>
     <!-- Header -->
