@@ -2,22 +2,22 @@
 @section('content')
 
 <script>
-    function formSwitch() {
-        document.getElementById("info").style.display = "none";
-        document.getElementById("contact").style.display = "block";
-    }
+    // function formSwitch() {
+    //     document.getElementById("info").style.display = "none";
+    //     document.getElementById("contact").style.display = "block";
+    // }
 
-    function cancel() {
-        document.getElementById("contact").style.display = "none";
-        document.getElementById("info").style.display = "block";
-    }
+    // function cancel() {
+    //     document.getElementById("contact").style.display = "none";
+    //     document.getElementById("info").style.display = "block";
+    // }
 </script>
 
-<style>
+<!-- <style>
     .invalid-feedback {
         display: block;
     }
-</style>
+</style> -->
 
 <!-- contact -->
 <div id="intro" class="basic-1">
@@ -29,7 +29,7 @@
         <div class="row">
             <div class="col-lg-5">
                 <!-- form -->
-                <div  id="contact" class="container">
+                <!-- <div  id="contact" class="container">
                     @if(Session::has('message_sent'))
                         <div class="alert alert-success" role="alert">
                             {{ Session::get('message_sent') }}
@@ -62,11 +62,11 @@
                             @endif
                         </div>                      
                         <button type="submit" class="btn-solid-lg page-scroll" href="#contact">Send Message</button>
-                        <button type="button" onclick="cancel()" class="btn-solid-lg btn-danger">Cancel</button>
+                        <button type="button" onclick="cancel()" class="btn-solid-lg">Cancel</button>
                     </form>
-                </div>
+                </div> -->
                 <!-- end of form -->
-                <div style="display: none;" class="text-container" id="info">
+                <div class="text-container" id="info">
                     <p>Where does your business need more support? We offer a broad range of services and packages that
                         be
                         customized to your needs. Send us a message today, and we can start you on a path to success.
@@ -80,7 +80,7 @@
                                 info@reliancecompliance.ca</a></li>
                     </ul>
                     <br>
-                    <button onclick="formSwitch()" class="btn-solid-lg page-scroll" href="">Contact Us</button>
+                    <a class="btn-solid-lg page-scroll" href="/contact-form">Contact Us</a>
                 </div> <!-- end of text-container -->
             </div> <!-- end of col -->
             <div class="col-lg-7">

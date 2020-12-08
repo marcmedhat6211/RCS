@@ -34,8 +34,13 @@ Route::get('/clients', function() {
     return view('clients');
 });
 
+/*CONTACT FORM ROUTE*/
+Route::get('/contact-form', function() {
+    return view('contact-form');
+});
+
 /*CONTACT ROUTE*/
 Route::get('/contact', [ContactController::class, 'contact']);
 
-/*CONTACT FORM ROUTE*/
+/*SEND MESSAGE ROUTE*/
 Route::post('/send-message', [ContactController::class, 'sendEmail'])->name('contact.send');
