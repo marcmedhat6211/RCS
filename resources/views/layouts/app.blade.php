@@ -18,7 +18,7 @@
 	<meta property="og:type" content="article" />
 
     <!-- Website Title -->
-    <title>RCS</title>
+    <title>RelianceComplianceSolutions</title>
     
     <!-- Styles -->
     <link href="{{ asset('https://fonts.googleapis.com/css?family=Montserrat:500,700&display=swap&subset=latin-ext') }}" rel="stylesheet">
@@ -52,7 +52,7 @@
 
         <!-- Image Logo -->
         <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a> -->
-        <h4 style="color: white;"><span style="color: purple; font-size: 25px">R</span>eliance <span style="color: purple; font-size: 25px">C</span>ompliance <span style="color: purple; font-size: 25px">S</span>olutions</h4>
+        <h4 style="color: white; font-size:1.5vw;"><span style="color: purple; font-size: 25px">R</span>eliance <span style="color: purple; font-size: 25px">C</span>ompliance <span style="color: purple; font-size: 25px">S</span>olutions</h4>
         <!-- <h4 id="js-rotating">
             <span><h4 style="color: purple;">RCS</h4></span>,      <span><h4 style="color: purple;">R</h4><h4 style="color: white;">eliance</h4><h4 style="color: purple;">C</h4><h4 style="color: white;">ompliance</h4><h4 style="color: purple;">S</h4><h4 style="color: white;">olutions</h4></span>
         </h4> -->
