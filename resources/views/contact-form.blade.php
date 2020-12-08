@@ -4,13 +4,14 @@
     .invalid-feedback {
         display: block;
     }
+    .middle {
+        max-width: 800px;
+    }
 </style>
 <div id="intro" class="basic-1">
-    <center>
-        <h1>Contact Us Form</h1>
-        <br>
-    </center>
-    <div class="container">
+        <h1 style="text-align: center">Contact Us Form</h1>
+        <br>   
+    <div class="container middle">
         <div class="row">
             <div class="col-lg-12">
             <!-- form -->
