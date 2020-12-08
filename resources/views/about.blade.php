@@ -6,10 +6,10 @@
         <div style="width:800px; margin:0 auto;" class="container">
             <!-- <div class="row"> -->
                 <!-- <div class="col-lg-7 col-xl-6"> -->
-                    <!-- <div class="text-container"> -->
+                    <div class="text-container">
                         <!-- <div  class="section-title">ABOUT</div> -->
                         <br>
-                        <center><h1>About</h1></center>
+                        <h1 style="text-align: center">About</h1>  
                         <br>
                         <p>	Reliance Compliance Solutions Inc. (RCS) is a consulting company that was founded in 2020 and is 
                             based in Toronto, Ontario with a focus of delivering exceptional compliance solutions to various 
@@ -54,7 +54,7 @@
                             </li>
                         </ul>
 
-                    <!-- </div> end of text-container       -->
+                    </div> <!-- end of text-container -->     
                 <!-- </div> end of col -->
             <!-- </div> end of row -->
         </div> <!-- end of container -->
