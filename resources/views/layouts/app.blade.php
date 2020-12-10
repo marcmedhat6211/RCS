@@ -33,7 +33,16 @@
     <link rel="icon" href="{{ asset('public/images/favicon.png') }}">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
-    
+
+    <style>
+        .h4Style {
+            color: white;
+        }
+        .spanStyle {
+            color: purple;
+        }
+    </style>
+
     <!-- Preloader -->
 	<div class="spinner-wrapper">
         <div class="spinner">
@@ -52,10 +61,17 @@
 
         <!-- Image Logo -->
         <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a> -->
-        <h4 style="color: white; font-size:1.8vw;"><span style="color: purple; font-size:2.3vw;">R</span>eliance <span style="color: purple; font-size:2.3vw;">C</span>ompliance <span style="color: purple; font-size:2.3vw;">S</span>olutions</h4>
-        <!-- <h4 id="js-rotating">
-            <span><h4 style="color: purple;">RCS</h4></span>,      <span><h4 style="color: purple;">R</h4><h4 style="color: white;">eliance</h4><h4 style="color: purple;">C</h4><h4 style="color: white;">ompliance</h4><h4 style="color: purple;">S</h4><h4 style="color: white;">olutions</h4></span>
+        <!-- <h4 style="color: white; font-size: 18px;"><span style="color: purple; font-size:30px;">R</span>eliance <span style="color: purple; font-size:30px;">C</span>ompliance <span style="color: purple; font-size:30px;">S</span>olutions</h4> -->
+        <h4 id="js-rotating" style="color: purple">
+            <span><h4 style="color: purple;">RCS</h4></span>, <span>Reliance Compliance Solutions</span>
+        </h4>
+
+        <!-- <h4 class="h4Style" id="js-rotating">
+            <span class="spanStyle">RCS</span>,  <span class="spanStyle">R</span>eliance <span class="spanStyle">C</span>ompliance <span class="spanStyle">S</span>olutions
         </h4> -->
+
+
+
         <!-- Mobile Menu Toggle Button -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-awesome fas fa-bars"></span>
