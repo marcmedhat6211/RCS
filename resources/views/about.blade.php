@@ -91,8 +91,8 @@
                         <img style="border-radius: 50%;" class="img-fluid" src="images/0-removebg-preview.jpg"
                             alt="alternative">
                     </div> <!-- end of image wrapper -->
-                    <p style="font-size: 17px;"><strong>Claudius Otegbade</strong><br>FCA, CAMS, CFCS, CFE, CFI</p>
-                    <p style="font-size: 17px;"><strong>AML Advisor</strong></p>
+                    <p style="font-size: 18px;"><strong>Claudius Otegbade</strong><br>FCA, CAMS, CFCS, CFE, CFI</p>
+                    <p style="font-size: 18px;"><strong>AML Advisor</strong></p>
                 </div> <!-- end of team-member -->
                 <!-- end of team member -->
 
