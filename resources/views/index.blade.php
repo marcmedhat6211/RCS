@@ -16,7 +16,7 @@
                             <!-- <h1>BUSINESS <span id="js-rotating">TEMPLATE, SERVICES, SOLUTIONS</span></h1> -->
                             <!-- <h1>Reliance Compliance Solutions</h1> -->
                             <!-- <p class="p-heading p-large">RCS is a top consultancy company specializing in business growth using online marketing and conversion optimization tactics</p> -->
-                            <a style="margin-top: 1px; position: absolute; top: 2; right: 0;" class="btn-solid-lg page-scroll button-resp" href="/contact">SCHEDULE A CONSULTATION TODAY</a>
+                            <!-- <a style="margin-top: 1px; position: absolute; top: 2; right: 0;" class="btn-solid-lg page-scroll button-resp" href="/contact">SCHEDULE A CONSULTATION TODAY</a> -->
                         <!-- </div> -->
                     </div> <!-- end of col -->
                 </div> <!-- end of row -->

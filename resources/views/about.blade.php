@@ -15,25 +15,25 @@
         <br>
         <p> Reliance Compliance Solutions Inc. (RCS) is a consulting company that was founded in 2020 and is
             based in Toronto, Ontario with a focus of delivering exceptional compliance solutions to various
-            reporting entities such as Banks. Credit Unions, MSBs and Virtual currency dealers.<br><br>We specialize in
+            reporting entities such as Banks, Credit Unions, MSBs and Virtual currency dealers.<br><br>We specialize in
             Regulatory compliance, Anti Money Laundering and Counter Terrorist Financing
             and we offer a variety of services such as:</p>
         <ul class="list-unstyled li-space-lg">
             <li class="media">
                 <i class="fas fa-square"></i>
-                <div class="media-body">Compliance Regime Development/Build up</div>
+                <div class="media-body">Compliance regime development</div>
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>
-                <div class="media-body">AML Program Development/Build up</div>
+                <div class="media-body">AML program development</div>
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>
-                <div class="media-body">Policy reviews/write up</div>
+                <div class="media-body">Policy write up</div>
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>
-                <div class="media-body">AML/Compliance effectiveness reviews</div>
+                <div class="media-body">AML/Compliance effectiveness review</div>
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>
@@ -45,7 +45,7 @@
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>
-                <div class="media-body">Assist with Banking partner audits</div>
+                <div class="media-body">Assist with banking partner audits</div>
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>
@@ -54,7 +54,7 @@
             <li class="media">
                 <i class="fas fa-square"></i>
                 <div class="media-body">Act as Compliance Officer or Chief AML Officer <span style="font-size: 12px">
-                        **Terms & Conditions Apply**</span></div>
+                        **Terms & Conditions Apply** <br><br><br></span></div>
             </li>
         </ul>
     </div> <!-- end of container -->

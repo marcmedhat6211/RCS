@@ -9,7 +9,7 @@
     }
 </style>
 <div id="intro" class="basic-1">
-        <h1 style="text-align: center">Contact Us Form</h1>
+        <h1 style="text-align: center">Contact Us</h1>
         <br>   
     <div class="container middle">
         <div class="row">
@@ -51,9 +51,9 @@
                             <small class="form-text invalid-feedback">{{ $errors->first('message') }}</small>
                         @endif
                     </div>
-                    <button type="submit" class="btn-solid-lg page-scroll" href="#contact">Send Message</button>
+                    <button type="submit" class="btn-solid-lg page-scroll" href="#contact">Submit</button>
                     <!-- <button type="button" onclick="cancel()" class="btn-solid-lg">Cancel</button> -->
-                    <a class="btn-solid-lg page-scroll" href="/contact">Back</a>
+                    <a class="btn-solid-lg page-scroll" href="/contact">Cancel</a>
                 </form>
             </div>
         </div>

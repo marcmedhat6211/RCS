@@ -31,9 +31,7 @@
 
 <!-- contact -->
 <div id="intro" class="basic-1">
-    <center>
-        <h1>Contact Us</h1>
-    </center>
+        <h1 style="text-align: center">Contact Us</h1>
     <br><br>
     <div class="container">
         <div class="row">
@@ -87,8 +85,8 @@
                         <li><i class="fas fa-envelope"></i><a href="mailto:info@reliancecompliance.ca">
                                 info@reliancecompliance.ca</a></li>
                     </ul>
-                    <br>
-                    <a class="btn-solid-lg page-scroll" href="/contact-form">Contact Us</a>
+                    
+                    <a class="btn-solid-lg page-scroll" href="/contact-form">Schedule a Consultation</a>
                 </div> <!-- end of text-container -->
             </div> <!-- end of col -->
             <div class="col-lg-7">
