@@ -62,10 +62,11 @@
         <!-- Image Logo -->
         <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a> -->
         <!-- <h4 style="color: white; font-size: 18px;"><span style="color: purple; font-size:30px;">R</span>eliance <span style="color: purple; font-size:30px;">C</span>ompliance <span style="color: purple; font-size:30px;">S</span>olutions</h4> -->
-        <h6 id="js-rotating" style="color: purple">
-            <span style="color: purple;">RCS</span>, <span>Reliance Compliance Solutions</span>
-        </h6>
-
+        <a style="text-decoration: none;" href="/" alt="alternative">
+            <h6 id="js-rotating" style="color: purple">
+                <span style="color: purple;">RCS</span>, <span>Reliance Compliance Solutions</span>
+            </h6>
+        </a>
         <!-- <h4 class="h4Style" id="js-rotating">
             <span class="spanStyle">RCS</span>,  <span class="spanStyle">R</span>eliance <span class="spanStyle">C</span>ompliance <span class="spanStyle">S</span>olutions
         </h4> -->
@@ -105,7 +106,7 @@
     @yield('content')
 
     <!-- Copyright -->
-    <div class="copyright">
+    <div class="copyright footer">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

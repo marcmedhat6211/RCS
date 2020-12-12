@@ -7,8 +7,15 @@
     .middle {
         max-width: 800px;
     }
+    .vertical-center {
+        margin: 0;
+        position: relative;
+        top: 50%;
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
 </style>
-<div id="intro" class="basic-1">
+<div id="intro" class="basic-1 vertical-center">
         <h1 style="text-align: center">Contact Us</h1>
         <br>   
     <div class="container middle">
