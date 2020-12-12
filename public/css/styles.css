@@ -1743,6 +1743,22 @@ input[type='checkbox'] {
 	padding-bottom: 0.5rem;
 	background-color: black;
 	text-align: center;
+
+	/* bottom: 0px;
+    position: absolute;
+    height: 50px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px; */
+    /* background-color: black; */
+    /* color: white; */
+    /* text-align: center; */
+}
+
+
+#wrapper {
+    height: 1000px;
+    position: relative;
 }
 
 .copyright p,
