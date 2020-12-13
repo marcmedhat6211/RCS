@@ -687,7 +687,7 @@ input[type='checkbox'] {
 
 .navbar-custom .nav-item .nav-link {
 	padding: 0.625rem 0.75rem 0.625rem 0.75rem;
-	color: white;
+	color: purple;
 	text-decoration: none;
 	transition: all 0.2s ease;
 }
@@ -1899,7 +1899,7 @@ a:hover.back-to-top {
 		padding: 2.125rem 1.5rem 2.125rem 2rem;
 		box-shadow: none;
 		height: 40px;
-        /* background: transparent; */
+        background: transparent;
 	}
 	
 	.navbar-custom .navbar-brand.logo-text {
