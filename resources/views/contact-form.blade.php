@@ -14,8 +14,9 @@
         -ms-transform: translateY(-50%);
         transform: translateY(-50%);
     }
+
 </style>
-<div id="intro" class="basic-1 vertical-center">
+<div id="intro" class="basic-1">
         <h1 style="text-align: center">Contact Us</h1>
         <br>   
     <div class="container middle">

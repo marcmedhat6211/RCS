@@ -18,7 +18,7 @@
                         <h3 class="card-title">Banks</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/Bank.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/new/RCS Bank.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -29,7 +29,7 @@
                         <h3 class="card-title">Credit Unions</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/cu.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/new/RCS CU.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -40,7 +40,7 @@
                         <h3 class="card-title">Financial Services</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/Financial Services.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/new/Financial Services.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -51,7 +51,7 @@
                         <h3 class="card-title">Money Services Businesses</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/MSB.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/new/RCS MSB.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -73,7 +73,7 @@
                         <h3 class="card-title">Dealers in Precious Metals & Stones</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/pm.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/new/RCS PS PM.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
