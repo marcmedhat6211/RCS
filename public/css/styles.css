@@ -687,7 +687,7 @@ input[type='checkbox'] {
 
 .navbar-custom .nav-item .nav-link {
 	padding: 0.625rem 0.75rem 0.625rem 0.75rem;
-	color: purple;
+	color: white;
 	text-decoration: none;
 	transition: all 0.2s ease;
 }
@@ -758,7 +758,7 @@ input[type='checkbox'] {
 
 .navbar-custom .navbar-toggler {
 	border: none;
-	color: white;
+	color: purple;
 	font-size: 2rem;
 }
 
@@ -786,6 +786,7 @@ input[type='checkbox'] {
 .header {
 	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/compliance-13.jpg') center center no-repeat;
 	background-size: cover;
+	margin-top: 60px;
 }
 
 .header .header-content {
@@ -1899,7 +1900,7 @@ a:hover.back-to-top {
 		padding: 2.125rem 1.5rem 2.125rem 2rem;
 		box-shadow: none;
 		height: 40px;
-        background: transparent;
+        /* background: transparent; */
 	}
 	
 	.navbar-custom .navbar-brand.logo-text {
