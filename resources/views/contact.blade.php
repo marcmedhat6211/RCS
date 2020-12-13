@@ -73,7 +73,7 @@
                     </form>
                 </div> -->
                 <div class="text-container" id="info">
-                    <p>Where does your business need more support? We offer a broad range of services and packages that
+                    <p>Where does your business need more support? We offer a broad range of services and packages that can
                         be
                         customized to your needs. Send us a message today, and we can start you on a path to success.
                     </p>
