@@ -5,7 +5,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <div class="section-title"><h1>Our Clients</h1></div>
+                <div class="section-title">
+                    <h1>Our Clients</h1>
+                </div>
                 <br>
             </div> <!-- end of col -->
         </div> <!-- end of row -->
@@ -37,7 +39,7 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-body">
-                        <h3 class="card-title">Financial Services</h3>
+                        <h3 class="card-title">Payment Services</h3>
                     </div>
                     <div class="card-image">
                         <img class="img-fluid" src="images/new/Financial Services.jpg" alt="alternative">
@@ -78,8 +80,39 @@
                 </div>
                 <!-- end of card -->
 
+                <!-- Card -->
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Accounting Services</h3>
+                    </div>
+                    <div class="card-image">
+                        <img style="height: 185px;" class="img-fluid" src="images/accounting services 1.jpg" alt="alternative">
+                    </div>
+                </div>
+                <!-- end of card -->
 
 
+                <!-- Card -->
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Securities Dealers</h3>
+                    </div>
+                    <div class="card-image">
+                        <img class="img-fluid" src="images/securities dealers.jpg" alt="alternative">
+                    </div>
+                </div>
+                <!-- end of card -->
+
+                <!-- Card -->
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Real Estate</h3>
+                    </div>
+                    <div class="card-image">
+                        <img class="img-fluid" src="images/real-estate.jpg" alt="alternative">
+                    </div>
+                </div>
+                <!-- end of card -->
 
             </div> <!-- end of col -->
         </div> <!-- end of row -->

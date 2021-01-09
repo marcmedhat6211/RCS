@@ -77,8 +77,7 @@
                 <div class="team-member">
                     <br>
                     <div class="image-wrapper">
-                        <img style="border-radius: 50%;" class="img-fluid"
-                            src="images/Peter Morcos-removebg-preview.jpg" alt="alternative">
+                        <img class="img-fluid team-img" src="images/headshot_13.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Peter Morcos</strong><br>CAMS, CFCS, CFE, CFI, CBP</p>
                     <p style="font-size: 18px;"><strong>Founder, CEO & CAMLO</strong></p>
@@ -87,11 +86,61 @@
 
                 <!-- Team Member -->
                 <div class="team-member">
+                    <br>
                     <div class="image-wrapper">
-                        <img style="border-radius: 50%;" class="img-fluid" src="images/0-removebg-preview.jpg"
-                            alt="alternative">
+                        <img class="img-fluid team-img" src="images/me.jpg" alt="alternative">
+                    </div> <!-- end of image wrapper -->
+                    <p style="font-size: 18px; margin-bottom: 40px;"><strong>Marc Medhat</strong></p>
+                    <p style="font-size: 18px;"><strong>Compliance Analyst</strong></p>
+                </div> <!-- end of team-member -->
+                <!-- end of team member -->
+
+                <!-- Team Member -->
+                <div class="team-member">
+                    <div class="image-wrapper">
+                        <img class="img-fluid team-img" src="images/team-2.png" alt="alternative">
+                    </div> <!-- end of image wrapper -->
+                    <p style="font-size: 18px; margin-bottom: 40px"><strong>Mira Hanna</strong></p>
+                    <p style="font-size: 18px;"><strong>AMF Respondent</strong></p>
+                </div> <!-- end of team-member -->
+                <!-- end of team member -->
+
+
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of container -->
+</div> <!-- end of basic-2 -->
+<!-- end of team -->
+
+
+<!-- Team -->
+<div style="margin-top: -100px;" class="basic-2" id="team">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1>Advisory Board</h1>
+                <br>
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+        <div class="row">
+            <div class="col-lg-12">
+
+                <!-- Team Member -->
+                <div class="team-member">
+                    <div class="image-wrapper">
+                        <img style="margin-bottom: 10px;" class="img-fluid team-img" src="images/0-removebg-preview.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Claudius Otegbade</strong><br>FCA, CAMS, CFCS, CFE, CFI</p>
+                    <p style="font-size: 18px;"><strong>AML Advisor</strong></p>
+                </div> <!-- end of team-member -->
+                <!-- end of team member -->
+
+                <!-- Team Member -->
+                <div class="team-member">
+                    <div class="image-wrapper">
+                        <img style="margin-bottom: 10px;" class="img-fluid team-img" src="images/Lekan.jpg" alt="alternative">
+                    </div> <!-- end of image wrapper -->
+                    <p style="font-size: 18px;"><strong>Olalekan Olatunji</strong><br>CAMS, CPA, FCA</p>
                     <p style="font-size: 18px;"><strong>AML Advisor</strong></p>
                 </div> <!-- end of team-member -->
                 <!-- end of team member -->
