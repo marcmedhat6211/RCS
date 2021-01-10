@@ -138,7 +138,7 @@
                 <!-- Team Member -->
                 <div class="team-member">
                     <div class="image-wrapper">
-                        <img style="margin-bottom: 10px;" class="img-fluid team-img" src="images/Lekan.jpg" alt="alternative">
+                        <img style="margin-bottom: 10px;" class="img-fluid team-img" src="images/lekan-color.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Olalekan Olatunji</strong><br>CAMS, CPA, FCA</p>
                     <p style="font-size: 18px;"><strong>AML Advisor</strong></p>

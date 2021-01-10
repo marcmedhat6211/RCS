@@ -18,7 +18,7 @@
 	<meta property="og:type" content="article" />
 
     <!-- Website Title -->
-    <title>RelianceComplianceSolutions</title>
+    <title>Reliance Compliance Solutions</title>
     
     <!-- Styles -->
     <link href="{{ asset('https://fonts.googleapis.com/css?family=Montserrat:500,700&display=swap&subset=latin-ext') }}" rel="stylesheet">
