@@ -1,11 +1,19 @@
     @extends('layouts.app')
     @section('content')
+    <style>
+    .content {
+        max-width: 500px;
+        margin: auto;
+        background: white;
+        padding: 10px;
+    }
+    </style>
     <div id="services" class="cards-2">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
-                        <h1 style="margin-right: 100px;">Services</h1>
+                        <h1>Services</h1>
                     </div>
                     <br>
                     <br>

@@ -937,7 +937,7 @@ input[type='checkbox'] {
 
 .cards-2 .card-body {
 	padding: 2.25rem 2rem 2.125rem 2rem;
-	border: 1px solid #ebe8e8;
+	border: 1px  #ebe8e8;
 	border-bottom-left-radius: 0.375rem;
 	border-bottom-right-radius: 0.375rem;
 	background-color: #fff;
@@ -2492,7 +2492,7 @@ a:hover.back-to-top {
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
 	background-color: transparent;
-	width: 300px;
+	width: 330px;
 	height: 250px;
 	border: 1px #f1f1f1;
 	perspective: 1000px; /* Remove this if you don't want the 3D effect */
