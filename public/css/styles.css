@@ -2492,10 +2492,13 @@ a:hover.back-to-top {
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
 	background-color: transparent;
+	text-align: center;
 	width: 330px;
 	height: 250px;
 	border: 1px #f1f1f1;
 	perspective: 1000px; /* Remove this if you don't want the 3D effect */
+	/* display:inline; */
+	/* margin-left: 80px; */
   }
   
   /* This container is needed to position the front and back side */
@@ -2551,3 +2554,9 @@ a:hover.back-to-top {
 	  border-radius: 50%;
 	  height: 230px;
   }
+
+  /* .card {
+	margin: 0 auto;
+	float: none;
+	margin-bottom: 10px;
+  } */
