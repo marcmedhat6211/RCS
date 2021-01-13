@@ -32,7 +32,8 @@
 	<link href="{{ asset('css/styles.css') }}" type="text/css" rel="stylesheet">
 	
 	<!-- Favicon  -->
-    <link rel="icon" href="{{ asset('public/images/favicon.png') }}">
+    <!-- <link rel="icon" href="{{ asset('public/images/favicon.png') }}"> -->
+    <link rel="icon" type="image/png" href="{{ asset('images/logo2.jpeg') }}"/>
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
 

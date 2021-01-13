@@ -7,9 +7,9 @@
 </head>
 <body>
     <h1>Contact Form</h1>
-    <p>Name: {{ $details['name'] }}</p>
-    <p>email: {{ $details['email'] }}</p>
-    <p>business: {{ $details['business'] }}</p>
-    <p>message: {{ $details['message'] }}</p>
+    <p><strong>NAME: </strong> {{ $details['name'] }}</p>
+    <p><strong>EMAIL: </strong> {{ $details['email'] }}</p>
+    <p><strong>BUSINESS: </strong> {{ $details['business'] }}</p>
+    <p><strong>MESSAGE: </strong> {{ $details['message'] }}</p>
 </body>
 </html>
