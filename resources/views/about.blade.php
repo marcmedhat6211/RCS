@@ -14,7 +14,7 @@
         </center>
         <br>
         <p> Reliance Compliance Solutions Inc. (RCS) is a consulting company that was founded in 2020 and is
-            based in Toronto, Ontario with a focus of delivering exceptional compliance solutions to various
+            based in Toronto, Ontario with a focus on delivering exceptional compliance solutions to various
             reporting entities such as Banks, Credit Unions, MSBs and Virtual currency dealers.<br><br>We specialize in
             Regulatory compliance, Anti Money Laundering, Counter Terrorist Financing
             and we offer a variety of services such as:</p>

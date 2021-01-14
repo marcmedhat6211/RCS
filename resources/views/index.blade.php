@@ -34,8 +34,9 @@
                         <p>Reliance Compliance Solutions' goal is to help you safeguard your success and educate you on the latest regulatory requirements. 
                         Our team of certified AML specialists has over 10 years experience in the industry and is ready to assist you with all 
                         your compliance and AML needs. Whether you are a bank, credit union, MSB, crypto currency dealer, securities dealer, payment service 
-                        provider,  dealer in precious metals & stones, accounting firm or a real estate company, we have got you covered! <br>
+                        provider,  dealer in precious metals & stones, accounting firm or a real estate company, we have got you covered! <br><br>
                         We have a passion for helping others and seeing them succeed. Let's get you on the right track, let's get you compliant!  </p>
+                        <br>
                         <a class="btn-solid-lg page-scroll" href="/about#team">MEET THE TEAM</a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
