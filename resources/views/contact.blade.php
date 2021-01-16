@@ -88,7 +88,7 @@
                                 info@reliancecompliance.ca</a></li>
                     </ul>
                     
-                    <!-- <a class="btn-solid-lg page-scroll" href="/contact-form">Schedule a Consultation</a> -->
+                    <a class="btn-solid-lg page-scroll" href="/contact-form">Schedule a Consultation</a>
                 </div> <!-- end of text-container -->
             </div> <!-- end of col -->
             <div class="col-lg-7">
