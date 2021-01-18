@@ -17,8 +17,10 @@
 	<meta property="og:url" content="" /> <!-- where do you want your post to link to -->
 	<meta property="og:type" content="article" />
 
+    
+
     <!-- Website Title -->
-    <title>RelianceComplianceSolutions</title>
+    <title>Reliance Compliance Solutions</title>
     
     <!-- Styles -->
     <link href="{{ asset('https://fonts.googleapis.com/css?family=Montserrat:500,700&display=swap&subset=latin-ext') }}" rel="stylesheet">
@@ -30,7 +32,8 @@
 	<link href="{{ asset('css/styles.css') }}" type="text/css" rel="stylesheet">
 	
 	<!-- Favicon  -->
-    <link rel="icon" href="{{ asset('public/images/favicon.png') }}">
+    <!-- <link rel="icon" href="{{ asset('public/images/favicon.png') }}"> -->
+    <link style="border-radius: 50%;" rel="icon" type="image/png" href="{{ asset('images/rcs_logo.jpeg') }}"/>
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
 

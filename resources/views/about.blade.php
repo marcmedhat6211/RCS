@@ -14,22 +14,18 @@
         </center>
         <br>
         <p> Reliance Compliance Solutions Inc. (RCS) is a consulting company that was founded in 2020 and is
-            based in Toronto, Ontario with a focus of delivering exceptional compliance solutions to various
+            based in Toronto, Ontario with a focus on delivering exceptional compliance solutions to various
             reporting entities such as Banks, Credit Unions, MSBs and Virtual currency dealers.<br><br>We specialize in
-            Regulatory compliance, Anti Money Laundering and Counter Terrorist Financing
+            Regulatory compliance, Anti Money Laundering, Counter Terrorist Financing
             and we offer a variety of services such as:</p>
         <ul class="list-unstyled li-space-lg">
             <li class="media">
                 <i class="fas fa-square"></i>
-                <div class="media-body">Compliance regime development</div>
+                <div class="media-body">AML / Compliance regime development</div>
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>
-                <div class="media-body">AML program development</div>
-            </li>
-            <li class="media">
-                <i class="fas fa-square"></i>
-                <div class="media-body">Policy write up</div>
+                <div class="media-body">Manage compliance program</div>
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>
@@ -41,11 +37,12 @@
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>
-                <div class="media-body">Draft action plans to address examination findings</div>
+                <div class="media-body">Assist with bank onboarding / audit</div>
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>
-                <div class="media-body">Assist with banking partner audits</div>
+                <div class="media-body">Act as Compliance Officer or Chief AML Officer <span style="font-size: 12px">
+                        **Terms & Conditions Apply** </span></div>
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>
@@ -53,8 +50,11 @@
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>
-                <div class="media-body">Act as Compliance Officer or Chief AML Officer <span style="font-size: 12px">
-                        **Terms & Conditions Apply** <br><br><br></span></div>
+                <div class="media-body">Training</div>
+            </li>
+            <li class="media">
+                <i class="fas fa-square"></i>
+                <div class="media-body">Other advisory services <br><br><br> </div>
             </li>
         </ul>
     </div> <!-- end of container -->
@@ -77,10 +77,9 @@
                 <div class="team-member">
                     <br>
                     <div class="image-wrapper">
-                        <img style="border-radius: 50%;" class="img-fluid"
-                            src="images/Peter Morcos-removebg-preview.jpg" alt="alternative">
+                        <img class="img-fluid team-img" src="images/headshot 13-removebg-preview.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
-                    <p style="font-size: 18px;"><strong>Peter Morcos</strong><br>CAMS, CFCS, CFE, CFI, CBP</p>
+                    <p style="font-size: 18px;"><strong>Peter Morcos</strong><br>PMP, CAMS, CFCS, CFE, CFI</p>
                     <p style="font-size: 18px;"><strong>Founder, CEO & CAMLO</strong></p>
                 </div> <!-- end of team-member -->
                 <!-- end of team member -->
@@ -88,10 +87,61 @@
                 <!-- Team Member -->
                 <div class="team-member">
                     <div class="image-wrapper">
-                        <img style="border-radius: 50%;" class="img-fluid" src="images/0-removebg-preview.jpg"
-                            alt="alternative">
+                        <img class="img-fluid team-img" src="images/john 2-removebg-preview.jpg" alt="alternative">
+                    </div> <!-- end of image wrapper -->
+                    <p style="font-size: 18px;"><strong>John Morcos</strong><br>Master of Accounting</p>
+                    <p style="font-size: 18px;"><strong>Financial Controller</strong></p>
+                </div> <!-- end of team-member -->
+                <!-- end of team member -->
+
+                <!-- Team Member -->
+                <div class="team-member">
+                    <br>
+                    <div class="image-wrapper">
+                        <img class="img-fluid team-img" src="images/me-removebg-preview.jpg" alt="alternative">
+                    </div> <!-- end of image wrapper -->
+                    <p style="font-size: 18px; margin-bottom: 40px;"><strong>Marc Medhat</strong></p>
+                    <p style="font-size: 18px;"><strong>Compliance Analyst</strong></p>
+                </div> <!-- end of team-member -->
+                <!-- end of team member -->
+
+
+
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of container -->
+</div> <!-- end of basic-2 -->
+<!-- end of team -->
+
+
+<!-- Team -->
+<div style="margin-top: -100px;" class="basic-2" id="team">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1>Advisory Board</h1>
+                <br>
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+        <div class="row">
+            <div class="col-lg-12">
+
+                <!-- Team Member -->
+                <div class="team-member">
+                    <div class="image-wrapper">
+                        <img style="margin-bottom: 10px;" class="img-fluid team-img" src="images/0-removebg-preview.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Claudius Otegbade</strong><br>FCA, CAMS, CFCS, CFE, CFI</p>
+                    <p style="font-size: 18px;"><strong>AML Advisor</strong></p>
+                </div> <!-- end of team-member -->
+                <!-- end of team member -->
+
+                <!-- Team Member -->
+                <div class="team-member">
+                    <div class="image-wrapper">
+                        <img style="margin-bottom: 10px;" class="img-fluid team-img" src="images/Lekan-removebg-preview2.jpg" alt="alternative">
+                    </div> <!-- end of image wrapper -->
+                    <p style="font-size: 18px;"><strong>Olalekan Olatunji</strong><br>CAMS, CPA, FCA</p>
                     <p style="font-size: 18px;"><strong>AML Advisor</strong></p>
                 </div> <!-- end of team-member -->
                 <!-- end of team member -->
