@@ -29,7 +29,7 @@
     <div id="intro" class="basic-1">
         <div class="container">
             <div class="row">
-                <div class="col-lg-5">
+                <!-- <div class="col-lg-5"> -->
                     <div style="margin-bottom: 100px" class="text-container">
                         <p>Reliance Compliance Solutions' goal is to help you safeguard your success and educate you on the latest regulatory requirements. 
                         Our team of certified AML specialists has over 10 years experience in the industry and is ready to assist you with all 
@@ -39,10 +39,10 @@
                         <br>
                         <a class="btn-solid-lg page-scroll" href="/about#team">MEET THE TEAM</a>
                     </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
+                <!-- </div> end of col -->
                 <div class="col-lg-7">
                     <div class="image-container">
-                        <img class="img-fluid float-right" src="images/homeimg2.jpg" alt="alternative">
+                        <!-- <img class="img-fluid float-right" src="images/homeimg2.jpg" alt="alternative"> -->
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->

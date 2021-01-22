@@ -128,7 +128,7 @@
                                     <h3 class="card-title vertical">Training</h3>
                                 </div>
                                 <div class="flip-card-back">
-                                    <h6 class="vertical-body">We can draft the training manual as well as the annual training courses for your company and we can also provide training to your compliance officer, the board of directors, AML specialists or the 1st line of defense. <br><br> </p>
+                                    <h6 class="vertical-body">We draft the training manual as well as the annual training courses for your company and we can also provide training to your compliance officer, the board of directors, AML specialists or the 1st line of defense. <br><br> </p>
                                 </div>
                             </div>
                         </div>
@@ -142,7 +142,7 @@
                                     <h3 class="card-title vertical">Other advisory services</h3>
                                 </div>
                                 <div class="flip-card-back">
-                                    <h6 class="vertical-body">We can introduce your business to our approved third party vendors that can assist with the automation of KYC or transaction monitoring to meet the regulatory requirements.</p>
+                                    <h6 class="vertical-body">We introduce your business to our approved third party vendors that can assist with the automation of KYC or transaction monitoring to meet the regulatory requirements.</p>
                                 </div>
                             </div>
                         </div>

@@ -33,7 +33,7 @@
 	
 	<!-- Favicon  -->
     <!-- <link rel="icon" href="{{ asset('public/images/favicon.png') }}"> -->
-    <link style="border-radius: 50%;" rel="icon" type="image/png" href="{{ asset('images/rcs_logo.jpeg') }}"/>
+    <link rel="icon" type="image/png" href="{{ asset('images/new_logo-removebg-preview.png') }}"/>
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
 
@@ -66,9 +66,10 @@
         <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a> -->
         <!-- <h4 style="color: white; font-size: 18px;"><span style="color: purple; font-size:30px;">R</span>eliance <span style="color: purple; font-size:30px;">C</span>ompliance <span style="color: purple; font-size:30px;">S</span>olutions</h4> -->
         <a style="text-decoration: none;" href="/" alt="alternative">
-            <h6 id="js-rotating" style="color: purple">
+            <!-- <h6 id="js-rotating" style="color: purple">
                 <span style="color: purple;">RCS</span>, <span>Reliance Compliance Solutions</span>
-            </h6>
+            </h6> -->
+            <img style="height: 35px; width: 120px;" src="{{ asset('images/new_logo-removebg-preview.png') }}" alt="">
         </a>
         <!-- <h4 class="h4Style" id="js-rotating">
             <span class="spanStyle">RCS</span>,  <span class="spanStyle">R</span>eliance <span class="spanStyle">C</span>ompliance <span class="spanStyle">S</span>olutions
@@ -92,7 +93,7 @@
                             <a class="nav-link page-scroll" href="/about">ABOUT</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link page-scroll" href="/clients">CLIENTS</a>
+                            <a class="nav-link page-scroll" href="/clients">INDUSTRIES</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link page-scroll" href="/services">SERVICES</a>

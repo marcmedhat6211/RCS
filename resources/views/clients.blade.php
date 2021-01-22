@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title">
-                    <h1>Our Clients</h1>
+                    <h1>Industries</h1>
                 </div>
                 <br>
             </div> <!-- end of col -->
