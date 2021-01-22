@@ -77,7 +77,7 @@
                 <div class="team-member">
                     <br>
                     <div class="image-wrapper">
-                        <img class="img-fluid team-img" src="images/headshot 13-removebg-preview.jpg" alt="alternative">
+                        <img class="img-fluid team-img" src="images/headshot_13.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Peter Morcos</strong></p>
                     <p style="font-size: 18px;"><strong>Founder, CEO & CAMLO</strong></p>
@@ -87,7 +87,7 @@
                 <!-- Team Member -->
                 <div class="team-member">
                     <div class="image-wrapper">
-                        <img class="img-fluid team-img" src="images/John Morcos.jpg" alt="alternative">
+                        <img style="width: 300px;" class="img-fluid team-img" src="images/John Morcos.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>John Morcos</strong></p>
                     <p style="font-size: 18px;"><strong>Financial Controller</strong></p>
