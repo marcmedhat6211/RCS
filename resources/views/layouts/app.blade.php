@@ -93,7 +93,7 @@
                             <a class="nav-link page-scroll" href="/about">ABOUT</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link page-scroll" href="/clients">INDUSTRIES</a>
+                            <a class="nav-link page-scroll" href="/clients">SECTORS</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link page-scroll" href="/services">SERVICES</a>

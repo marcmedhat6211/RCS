@@ -79,8 +79,18 @@
                     <div class="image-wrapper">
                         <img class="img-fluid team-img" src="images/headshot 13-removebg-preview.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
-                    <p style="font-size: 18px;"><strong>Peter Morcos</strong><br>PMP, CAMS, CFCS, CFE, CFI</p>
+                    <p style="font-size: 18px;"><strong>Peter Morcos</strong></p>
                     <p style="font-size: 18px;"><strong>Founder, CEO & CAMLO</strong></p>
+                </div> <!-- end of team-member -->
+                <!-- end of team member -->
+                
+                <!-- Team Member -->
+                <div class="team-member">
+                    <div class="image-wrapper">
+                        <img class="img-fluid team-img" src="images/John Morcos.jpg" alt="alternative">
+                    </div> <!-- end of image wrapper -->
+                    <p style="font-size: 18px;"><strong>John Morcos</strong></p>
+                    <p style="font-size: 18px;"><strong>Financial Controller</strong></p>
                 </div> <!-- end of team-member -->
                 <!-- end of team member -->
 
@@ -89,8 +99,8 @@
                     <div class="image-wrapper">
                         <img class="img-fluid team-img" src="images/john 2-removebg-preview.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
-                    <p style="font-size: 18px;"><strong>John Morcos</strong><br>Master of Accounting</p>
-                    <p style="font-size: 18px;"><strong>Financial Controller</strong></p>
+                    <p style="font-size: 18px;"><strong>Name</strong></p>
+                    <p style="font-size: 18px;"><strong>Position</strong></p>
                 </div> <!-- end of team-member -->
                 <!-- end of team member -->
 
@@ -100,7 +110,7 @@
                     <div class="image-wrapper">
                         <img class="img-fluid team-img" src="images/me-removebg-preview.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
-                    <p style="font-size: 18px; margin-bottom: 40px;"><strong>Marc Medhat</strong></p>
+                    <p style="font-size: 18px;"><strong>Marc Medhat</strong></p>
                     <p style="font-size: 18px;"><strong>Compliance Analyst</strong></p>
                 </div> <!-- end of team-member -->
                 <!-- end of team member -->
@@ -131,7 +141,7 @@
                     <div class="image-wrapper">
                         <img style="margin-bottom: 10px;" class="img-fluid team-img" src="images/0-removebg-preview.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
-                    <p style="font-size: 18px;"><strong>Claudius Otegbade</strong><br>FCA, CAMS, CFCS, CFE, CFI</p>
+                    <p style="font-size: 18px;"><strong>Claudius Otegbade</strong></p>
                     <p style="font-size: 18px;"><strong>AML Advisor</strong></p>
                 </div> <!-- end of team-member -->
                 <!-- end of team member -->
@@ -141,7 +151,7 @@
                     <div class="image-wrapper">
                         <img style="margin-bottom: 10px;" class="img-fluid team-img" src="images/Lekan-removebg-preview2.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
-                    <p style="font-size: 18px;"><strong>Olalekan Olatunji</strong><br>CAMS, CPA, FCA</p>
+                    <p style="font-size: 18px;"><strong>Olalekan Olatunji</strong></p>
                     <p style="font-size: 18px;"><strong>AML Advisor</strong></p>
                 </div> <!-- end of team-member -->
                 <!-- end of team member -->
