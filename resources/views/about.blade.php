@@ -77,7 +77,7 @@
                 <div class="team-member">
                     <br>
                     <div class="image-wrapper">
-                        <img class="img-fluid team-img" src="images/headshot_13.jpg" alt="alternative">
+                        <img class="team-img" src="images/headshot_13.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Peter Morcos</strong></p>
                     <p style="font-size: 18px;"><strong>Founder & CEO</strong></p>
@@ -87,7 +87,7 @@
                 <!-- Team Member -->
                 <div class="team-member">
                     <div class="image-wrapper">
-                        <img style="width: 300px;" class="img-fluid team-img" src="images/John Morcos.jpg" alt="alternative">
+                        <img style="width: 230px" class="team-img" src="images/team/john 2.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>John Morcos</strong></p>
                     <p style="font-size: 18px;"><strong>Financial Controller</strong></p>
@@ -97,7 +97,7 @@
                 <!-- Team Member -->
                 <div class="team-member">
                     <div class="image-wrapper">
-                        <img class="img-fluid team-img" src="images/team/JF.jpg" alt="alternative">
+                        <img class="team-img" src="images/team/JF.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Jean-François Lefebvre</strong></p>
                     <p style="font-size: 18px;"><strong>AMF Respondent</strong></p>
@@ -108,7 +108,7 @@
                 <div class="team-member">
                     <br>
                     <div class="image-wrapper">
-                        <img class="img-fluid team-img" src="images/me-removebg-preview.jpg" alt="alternative">
+                        <img class="team-img" src="images/me-removebg-preview.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Marc Medhat</strong></p>
                     <p style="font-size: 18px;"><strong>Compliance Analyst</strong></p>
@@ -139,7 +139,7 @@
                 <!-- Team Member -->
                 <div class="team-member">
                     <div class="image-wrapper">
-                        <img style="margin-bottom: 10px;" class="img-fluid team-img" src="images/0-removebg-preview.jpg" alt="alternative">
+                        <img style="margin-bottom: 10px;" class="team-img" src="images/0-removebg-preview.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Claudius Otegbade</strong></p>
                     <p style="font-size: 18px;"><strong>AML Advisor</strong></p>
@@ -149,7 +149,7 @@
                 <!-- Team Member -->
                 <div class="team-member">
                     <div class="image-wrapper">
-                        <img style="margin-bottom: 10px;" class="img-fluid team-img" src="images/Lekan-removebg-preview2.jpg" alt="alternative">
+                        <img style="margin-bottom: 10px;" class="team-img" src="images/Lekan-removebg-preview2.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Olalekan Olatunji</strong></p>
                     <p style="font-size: 18px;"><strong>AML Advisor</strong></p>

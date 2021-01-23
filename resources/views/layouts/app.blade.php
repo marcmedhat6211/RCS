@@ -69,7 +69,7 @@
             <!-- <h6 id="js-rotating" style="color: purple">
                 <span style="color: purple;">RCS</span>, <span>Reliance Compliance Solutions</span>
             </h6> -->
-            <img style="height: 35px; width: 120px;" src="{{ asset('images/newest_logo') }}" alt="">
+            <img style="height: 35px; width: 120px;" src="{{ asset('images/890fb8.png') }}" alt="">
         </a>
         <!-- <h4 class="h4Style" id="js-rotating">
             <span class="spanStyle">RCS</span>,  <span class="spanStyle">R</span>eliance <span class="spanStyle">C</span>ompliance <span class="spanStyle">S</span>olutions

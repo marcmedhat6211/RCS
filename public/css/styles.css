@@ -91,7 +91,7 @@ body, p {
 }
 
 h1 {
-	color: purple;
+	color: #663399;
 	font: 700 2.5rem/3rem "Montserrat", sans-serif;
 }
 
@@ -152,16 +152,16 @@ strong {
 }
 
 .section-title {
-	color: purple;
+	color: #890fb8 ;
 	font: 500 0.8125rem/1.125rem "Montserrat", sans-serif;
 }
 
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.1875rem 1.875rem 1.1875rem 1.875rem;
-	border: 0.125rem solid purple;
+	border: 0.125rem solid #890fb8 ;
 	border-radius: 0.25rem;
-	background-color: purple;
+	background-color: #890fb8 ;
 	color: #fff;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -170,16 +170,16 @@ strong {
 
 .btn-solid-reg:hover {
 	background-color: transparent;
-	color: purple;
+	color: #890fb8 ;
 	text-decoration: none;
 }
 
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.375rem 2.125rem 1.375rem 2.125rem;
-	border: 0.125rem solid purple;
+	border: 0.125rem solid #890fb8 ;
 	border-radius: 0.25rem;
-	background-color: purple;
+	background-color: #890fb8 ;
 	color: #fff;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -188,7 +188,7 @@ strong {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: purple;
+	color: #890fb8 ;
 	text-decoration: none;
 }
 
@@ -205,7 +205,7 @@ strong {
 }
 
 .btn-outline-reg:hover {
-	background-color: purple;
+	background-color: #890fb8 ;
 	color: #fff;
 	text-decoration: none;
 }
@@ -389,9 +389,9 @@ input[type='checkbox'] {
 	display: inline-block;
 	width: 100%;
 	height: 3.125rem;
-	border: 0.125rem solid purple;
+	border: 0.125rem solid #890fb8 ;
 	border-radius: 0.25rem;
-	background-color: purple;
+	background-color: #890fb8 ;
 	color: #fff;
 	font: 700 0.75rem/1.75rem "Montserrat", sans-serif;
 	cursor: pointer;
@@ -400,7 +400,7 @@ input[type='checkbox'] {
 
 .form-control-submit-button:hover {
 	background-color: transparent;
-	color: purple;
+	color: #890fb8 ;
 }
 
 /* Form Success And Error Message Formatting */
@@ -694,7 +694,7 @@ input[type='checkbox'] {
 
 .navbar-custom .nav-item .nav-link:hover,
 .navbar-custom .nav-item .nav-link.active {
-	color: purple;
+	color: #890fb8 ;
 }
 
 /* Dropdown Menu */
@@ -726,12 +726,12 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .dropdown-item {
-	color: purple;
+	color: #890fb8;
 	text-decoration: none;
 }
 
 .navbar-custom .dropdown-item:hover {
-	background-color: purple;
+	background-color: #890fb8;
 }
 
 .navbar-custom .dropdown-item .item-text {
@@ -739,7 +739,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .dropdown-item:hover .item-text {
-	color: purple;
+	color: #890fb8 ;
 }
 
 .navbar-custom .dropdown-items-divide-hr {
@@ -758,7 +758,7 @@ input[type='checkbox'] {
 
 .navbar-custom .navbar-toggler {
 	border: none;
-	color: purple;
+	color: #890fb8 ;
 	font-size: 2rem;
 }
 
@@ -786,7 +786,8 @@ input[type='checkbox'] {
 .header {
 	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/shutterstock_1049316146.jpg') center center no-repeat;
 	background-size: cover;
-	margin-top: 45px;
+	/* top: 200px; */
+	height: 100%;
 }
 
 .header .header-content {
@@ -1096,7 +1097,7 @@ input[type='checkbox'] {
 
 .tabs .nav-link:hover,
 .tabs .nav-link.active {
-	color: purple;
+	color: #890fb8 ;
 }
 
 .tabs .nav-link .fas {
@@ -1126,7 +1127,7 @@ input[type='checkbox'] {
 	display: block;
 	padding-left: 1.5rem;
 	border-radius: 0.125rem;
-	background: linear-gradient(to bottom right, purple purple);
+	background: linear-gradient(to bottom right, #890fb8  #890fb8 );
 }
 
 .tabs #tab-1 .progress-bar.first {
@@ -1805,7 +1806,7 @@ a.back-to-top {
 	width: 2.625rem;
 	height: 2.625rem;
 	border-radius: 1.875rem;
-	background: purple url("../images/up-arrow.png") no-repeat center 47%;
+	background: #890fb8  url("../images/up-arrow.png") no-repeat center 47%;
 	background-size: 1.125rem 1.125rem;
 	text-indent: -9999px;
 }
@@ -1904,7 +1905,7 @@ a:hover.back-to-top {
 	}
 	
 	.navbar-custom .navbar-brand.logo-text {
-		color: purple;
+		color: #890fb8 ;
 	}
 
 	.navbar-custom .navbar-nav {
@@ -1918,7 +1919,7 @@ a:hover.back-to-top {
 	
 	.navbar-custom .nav-item .nav-link:hover,
 	.navbar-custom .nav-item .nav-link.active {
-		color: purple;
+		color: #890fb8 ;
 	}
 
 	.navbar-custom.top-nav-collapse {
@@ -1937,7 +1938,7 @@ a:hover.back-to-top {
 	
 	.navbar-custom.top-nav-collapse .nav-item .nav-link:hover,
 	.navbar-custom.top-nav-collapse .nav-item .nav-link.active {
-		color: purple;
+		color: #890fb8 ;
 	}
 
 	.navbar-custom .dropdown-menu {
@@ -2559,6 +2560,30 @@ a:hover.back-to-top {
 	  width: 100%;
 	  height: 200px;
   }
+
+  .contact-img {
+	position: relative;
+	top: 50px;
+	width: 100%;
+	height: auto;
+  }
+  
+/* @media (min-width: 992px) { */
+	.contact-img {
+		position: relative;
+		top: 50px;
+		width: 100%;
+		height: auto;
+	}
+/* } */
+
+/* @media (min-width: 990px) {
+	.contact-img {
+		display: flex;
+		justify-content: center;
+		flex-direction: row;
+	}
+} */
   /* .card {
 	margin: 0 auto;
 	float: none;

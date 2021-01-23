@@ -91,7 +91,7 @@
             </div> <!-- end of col -->
             <div class="col-lg-7">
                 <div class="image-container">
-                    <img class="img-fluid" src="images/compliance-wallpaper-16.jpg" alt="alternative">
+                    <img class="contact-img" src="images/Contact us.jpg" alt="alternative">
                 </div> <!-- end of image-container -->
             </div> <!-- end of col -->
         </div> <!-- end of row -->
