@@ -20,7 +20,7 @@
                         <h3 class="card-title">Banks</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/new/RCS Bank.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/sectors/Bank.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -31,7 +31,7 @@
                         <h3 class="card-title">Credit Unions</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/new/RCS CU.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/sectors/Credit Union.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -42,7 +42,7 @@
                         <h3 class="card-title">Payment Services</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/new/Financial Services.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/sectors/Payment Services.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -64,7 +64,7 @@
                         <h3 class="card-title">Dealers in Virtual Currencies</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/vc.png" alt="alternative">
+                        <img class="img-fluid" src="images/sectors/Virtual Currencies.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -75,7 +75,7 @@
                         <h3 class="card-title">Dealers in Precious Metals & Stones</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/new/RCS PS PM.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/sectors/Metals and Stones.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -86,7 +86,7 @@
                         <h3 class="card-title">Accounting Services</h3>
                     </div>
                     <div class="card-image">
-                        <img style="height: 185px;" class="img-fluid" src="images/accounting services 1.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/accounting services 1.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -98,7 +98,7 @@
                         <h3 class="card-title">Securities Dealers</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/securities dealers.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/sectors/securities dealers" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->

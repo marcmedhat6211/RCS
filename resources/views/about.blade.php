@@ -80,7 +80,7 @@
                         <img class="img-fluid team-img" src="images/headshot_13.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Peter Morcos</strong></p>
-                    <p style="font-size: 18px;"><strong>Founder, CEO & CAMLO</strong></p>
+                    <p style="font-size: 18px;"><strong>Founder & CEO</strong></p>
                 </div> <!-- end of team-member -->
                 <!-- end of team member -->
                 
@@ -97,10 +97,10 @@
                 <!-- Team Member -->
                 <div class="team-member">
                     <div class="image-wrapper">
-                        <img class="img-fluid team-img" src="images/john 2-removebg-preview.jpg" alt="alternative">
+                        <img class="img-fluid team-img" src="images/team/JF.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
-                    <p style="font-size: 18px;"><strong>Name</strong></p>
-                    <p style="font-size: 18px;"><strong>Position</strong></p>
+                    <p style="font-size: 18px;"><strong>Jean-François Lefebvre</strong></p>
+                    <p style="font-size: 18px;"><strong>AMF Respondent</strong></p>
                 </div> <!-- end of team-member -->
                 <!-- end of team member -->
 
