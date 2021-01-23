@@ -79,15 +79,13 @@
                     </p>
                     <br>
                     <h3>Reliance Compliance Solutions</h3>
-                    <br>
                     <ul class="list-unstyled li-space-lg">
                         <li class="address"><i class="fas fa-map-marker-alt"></i> 3080 Yonge Street, Toronto, Ontario
                             M4N 2K6, Canada</li>
-                            <br>
                         <li><i class="fas fa-envelope"></i><a href="mailto:info@reliancecompliance.ca">
                                 info@reliancecompliance.ca</a></li>
                     </ul>
-                    
+                    <br>
                     <a class="btn-solid-lg page-scroll" href="/contact-form">Schedule a Consultation</a>
                 </div> <!-- end of text-container -->
             </div> <!-- end of col -->

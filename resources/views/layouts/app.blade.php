@@ -33,7 +33,7 @@
 	
 	<!-- Favicon  -->
     <!-- <link rel="icon" href="{{ asset('public/images/favicon.png') }}"> -->
-    <link rel="icon" type="image/png" href="{{ asset('images/new_logo-removebg-preview.png') }}"/>
+    <link rel="icon" type="image/png" href="{{ asset('images/shield.png') }}"/>
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
 
