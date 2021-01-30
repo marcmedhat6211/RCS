@@ -29,9 +29,9 @@ Route::get('/about', function() {
     return view('about');
 });
 
-/*CLIENTS ROUTE*/
-Route::get('/clients', function() {
-    return view('clients');
+/*SECTORS ROUTE*/
+Route::get('/sectors', function() {
+    return view('sectors');
 });
 
 /*CONTACT FORM ROUTE*/

@@ -13,11 +13,7 @@
             <h1>About</h1>
         </center>
         <br>
-        <p> Reliance Compliance Solutions Inc. (RCS) is a consulting company that was founded in 2020 and is
-            based in Toronto, Ontario with a focus on delivering exceptional compliance solutions to various
-            reporting entities such as Banks, Credit Unions, MSBs and Virtual currency dealers.<br><br>We specialize in
-            Regulatory compliance, Anti Money Laundering, Counter Terrorist Financing
-            and we offer a variety of services such as:</p>
+        <p> Reliance Compliance Solutions Inc. (RCS) is a consulting company based in Toronto, Ontario with a focus on delivering exceptional compliance solutions to various reporting entities such as Banks, Credit Unions, MSBs and Virtual currency dealers.<br><br>Our team of professionals can provide assistance in Regulatory Compliance, Anti Money Laundering, Counter Terrorist Financing. We help our clients be compliant with Canadian regulations by focusing on building a comprehensive Compliance / AML program. We offer a variety of services such as:</p>
         <ul class="list-unstyled li-space-lg">
             <li class="media">
                 <i class="fas fa-square"></i>
@@ -33,20 +29,19 @@
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>
-                <div class="media-body">Assist with regulatory exams (FINTRAC/AMF)</div>
+                <div class="media-body">Regulatory exams (FINTRAC/AMF)</div>
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>
-                <div class="media-body">Assist with bank onboarding / audit</div>
+                <div class="media-body">Bank onboarding / Audit</div>
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>
-                <div class="media-body">Act as Compliance Officer or Chief AML Officer <span style="font-size: 12px">
-                        **Terms & Conditions Apply** </span></div>
+                <div class="media-body">Compliance Officer or Chief AML Officer </div>
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>
-                <div class="media-body">Act as AMF respondent</div>
+                <div class="media-body">AMF respondent</div>
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>
@@ -87,7 +82,7 @@
                 <!-- Team Member -->
                 <div class="team-member">
                     <div class="image-wrapper">
-                        <img style="width: 230px" class="team-img" src="images/team/john 2.jpg" alt="alternative">
+                        <img class="team-img" src="images/team/john 2.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>John Morcos</strong></p>
                     <p style="font-size: 18px;"><strong>Financial Controller</strong></p>

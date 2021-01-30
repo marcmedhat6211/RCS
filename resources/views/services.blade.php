@@ -69,7 +69,7 @@
                         <div class="flip-card">
                             <div class="flip-card-inner">
                                 <div class="flip-card-front">
-                                    <h3 class="card-title vertical">Assist with regulatory exams (FINTRAC/AMF)</h3>
+                                    <h3 class="card-title vertical">Regulatory exams (FINTRAC/AMF)</h3>
                                 </div>
                                 <div class="flip-card-back">
                                     <h6 class="vertical-body">We assist by prepping you for the exam interview as well as helping you gather all the necessary reports/documents to be presented for the exam. We can also draft up an action plan to address any findings from your exam.</p>
@@ -83,7 +83,7 @@
                         <div class="flip-card">
                             <div class="flip-card-inner">
                                 <div class="flip-card-front">
-                                    <h3 class="card-title vertical">Assist with bank onboarding/audit</h3>
+                                    <h3 class="card-title vertical">Bank onboarding / Audit</h3>
                                 </div>
                                 <div class="flip-card-back">
                                     <h6 class="vertical-body">We assist with your bank onboarding and also prep you for the banking audit process by helping you gather all the necessary reports/documents to be presented for the audit.</p>
@@ -97,7 +97,7 @@
                         <div class="flip-card">
                             <div class="flip-card-inner">
                                 <div class="flip-card-front">
-                                    <h3 class="card-title vertical">Act as Compliance officer or CAMLO</h3>
+                                    <h3 class="card-title vertical">Compliance officer or CAMLO</h3>
                                 </div>
                                 <div class="flip-card-back">
                                     <h6 class="vertical-body">We assign one of our CAMS certified AML specialist to act as your Compliance officer or Chief AML officer depending on your needs.<br><span style="font-size: 12px"> **Terms & Conditions Apply**</span> </p>
@@ -111,7 +111,7 @@
                         <div class="flip-card">
                             <div class="flip-card-inner">
                                 <div class="flip-card-front">
-                                    <h3 class="card-title vertical">Act as AMF Respondent</h3>
+                                    <h3 class="card-title vertical">AMF Respondent</h3>
                                 </div>
                                 <div class="flip-card-back">
                                     <h6 class="vertical-body">We assign one of our team members in Quebec to act as your AMF respondent for communication and document filing purposes between your company and the AMF.</p>

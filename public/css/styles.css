@@ -267,7 +267,20 @@ strong {
 	opacity: 1;
 	font: 400 0.875rem/1.375rem "Open Sans", sans-serif;
 	cursor: text;
-	transition: all 0.2s ease;
+	/* transition: all 0.2s ease; */
+}
+
+/**INTRO TITLE AND CONTENT**/
+.intro-title {
+	text-align: center;
+}
+
+.intro-title h3 {
+	color: #890fb8;
+}
+
+.intro-action-button {
+	text-align: center
 }
 
 /* IE10+ hack to solve lower label text position compared to the rest of the browsers */
@@ -689,7 +702,7 @@ input[type='checkbox'] {
 	padding: 0.625rem 0.75rem 0.625rem 0.75rem;
 	color: white;
 	text-decoration: none;
-	transition: all 0.2s ease;
+	/* transition: all 0.2s ease; */
 }
 
 .navbar-custom .nav-item .nav-link:hover,
@@ -701,7 +714,7 @@ input[type='checkbox'] {
 .navbar-custom .dropdown:hover > .dropdown-menu {
 	display: block; /* this makes the dropdown menu stay open while hovering it */
 	min-width: auto;
-	animation: fadeDropdown 0.2s; /* required for the fade animation */
+	/* animation: fadeDropdown 0.2s; required for the fade animation */
 }
 
 @keyframes fadeDropdown {
@@ -784,10 +797,24 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/shutterstock_1049316146.jpg') center center no-repeat;
-	background-size: cover;
+	/* background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/home_last.jpg') center center no-repeat; */
+	/* background-size: cover; */
 	/* top: 200px; */
 	height: 100%;
+}
+
+.home-img {
+	/* position: relative; */
+	width: 100%;
+	height: calc(100% - 40px);
+	margin-top: 65px;
+	/* padding: 0 0; */
+}
+
+@media (max-width: 766px) {
+	.home-img {
+		margin-top: 55px;
+	}
 }
 
 .header .header-content {
@@ -847,8 +874,11 @@ input[type='checkbox'] {
 }
 
 .basic-1 .image-container img {
+	position: relative;
 	margin: 0;
 	border-radius: 0.25rem;
+	width: 100%;
+	height: auto;
 	transition: all 0.3s;
 }
 
@@ -2553,19 +2583,13 @@ a:hover.back-to-top {
 
   .team-img {
 	  border-radius: 50%;
-	  height: 230px;
+	  width: 100%;
+	  height: 240px;
   }
 
   .img-fluid {
 	  width: 100%;
 	  height: 200px;
-  }
-
-  .contact-img {
-	position: relative;
-	top: 50px;
-	width: 100%;
-	height: auto;
   }
   
 /* @media (min-width: 992px) { */

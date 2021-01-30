@@ -47,16 +47,6 @@
                 </div>
                 <!-- end of card -->
 
-                <!-- Card -->
-                <div class="card">
-                    <div class="card-body">
-                        <h3 class="card-title">Money Services Businesses</h3>
-                    </div>
-                    <div class="card-image">
-                        <img class="img-fluid" src="images/new/RCS MSB.jpg" alt="alternative">
-                    </div>
-                </div>
-                <!-- end of card -->
 
                 <!-- Card -->
                 <div class="card">
@@ -65,6 +55,17 @@
                     </div>
                     <div class="card-image">
                         <img class="img-fluid" src="images/sectors/Virtual Currencies.jpg" alt="alternative">
+                    </div>
+                </div>
+                <!-- end of card -->
+
+                <!-- Card -->
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Money Services Business</h3>
+                    </div>
+                    <div class="card-image">
+                        <img class="img-fluid" src="images/new/RCS MSB.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
