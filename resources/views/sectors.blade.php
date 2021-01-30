@@ -65,7 +65,7 @@
                         <h3 class="card-title">Money Services Business</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/new/RCS MSB.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/sectors/RCS MSB.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -87,7 +87,7 @@
                         <h3 class="card-title">Accounting Services</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/accounting services 1.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/sectors/accounting services 1.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -110,7 +110,7 @@
                         <h3 class="card-title">Real Estate</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/real-estate.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/sectors/real-estate.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->

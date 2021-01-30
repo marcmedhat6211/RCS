@@ -72,7 +72,7 @@
                 <div class="team-member">
                     <br>
                     <div class="image-wrapper">
-                        <img class="team-img" src="images/headshot_13.jpg" alt="alternative">
+                        <img class="team-img" src="images/team/headshot_13.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Peter Morcos</strong></p>
                     <p style="font-size: 18px;"><strong>Founder & CEO</strong></p>
@@ -103,7 +103,7 @@
                 <div class="team-member">
                     <br>
                     <div class="image-wrapper">
-                        <img class="team-img" src="images/me-removebg-preview.jpg" alt="alternative">
+                        <img class="team-img" src="images/team/me-removebg-preview.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Marc Medhat</strong></p>
                     <p style="font-size: 18px;"><strong>Compliance Analyst</strong></p>
@@ -134,7 +134,7 @@
                 <!-- Team Member -->
                 <div class="team-member">
                     <div class="image-wrapper">
-                        <img style="margin-bottom: 10px;" class="team-img" src="images/0-removebg-preview.jpg" alt="alternative">
+                        <img style="margin-bottom: 10px;" class="team-img" src="images/team/0-removebg-preview.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Claudius Otegbade</strong></p>
                     <p style="font-size: 18px;"><strong>AML Advisor</strong></p>
@@ -144,7 +144,7 @@
                 <!-- Team Member -->
                 <div class="team-member">
                     <div class="image-wrapper">
-                        <img style="margin-bottom: 10px;" class="team-img" src="images/Lekan-removebg-preview2.jpg" alt="alternative">
+                        <img style="margin-bottom: 10px;" class="team-img" src="images/team/Lekan-removebg-preview2.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Olalekan Olatunji</strong></p>
                     <p style="font-size: 18px;"><strong>AML Advisor</strong></p>
