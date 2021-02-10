@@ -27,10 +27,10 @@
                         <div class="flip-card">
                             <div class="flip-card-inner">
                                 <div class="flip-card-front">
-                                    <h3 class="card-title vertical">AML / Compliance regime development</h3>
+                                    <h3 class="card-title vertical">AML/Compliance regime development</h3>
                                 </div>
                                 <div class="flip-card-back">
-                                    <h6 class="vertical-body">We build up your AML / Compliance program by drafting up the required policies and procedures like AML / CTF manual, Risk assessment, Sanctions and ABC. We can also assist in amending your current ones to be compliant with the current regulations. <br><br></p>
+                                    <h6 class="vertical-body">We build up your AML/Compliance program by drafting up the required policies and procedures like AML/CTF manual, Risk assessment, Sanctions and ABC. We also assist in amending your current ones to be compliant with the current regulations. <br><br></p>
                                 </div>
                             </div>
                         </div>
@@ -55,7 +55,7 @@
                         <div class="flip-card">
                             <div class="flip-card-inner">
                                 <div class="flip-card-front">
-                                    <h3 class="card-title vertical">AML / Compliance effectiveness review</h3>
+                                    <h3 class="card-title vertical">AML/Compliance effectiveness review</h3>
                                 </div>
                                 <div class="flip-card-back">
                                     <h6 class="vertical-body">We conduct a thorough AML/Compliance effectiveness review to your program as mandated by FINTRAC every 2 years. We also provide solutions to any findings in our review for an additional fee. <br><br></h6>
@@ -72,7 +72,7 @@
                                     <h3 class="card-title vertical">Regulatory exams (FINTRAC/AMF)</h3>
                                 </div>
                                 <div class="flip-card-back">
-                                    <h6 class="vertical-body">We assist by prepping you for the exam interview as well as helping you gather all the necessary reports/documents to be presented for the exam. We can also draft up an action plan to address any findings from your exam.</p>
+                                    <h6 class="vertical-body">We assist by prepping you for the exam interview as well as helping you gather all the necessary reports/documents to be presented for the exam. We also draft up an action plan to address any findings from your exam.</p>
                                 </div>
                             </div>
                         </div>
@@ -83,7 +83,7 @@
                         <div class="flip-card">
                             <div class="flip-card-inner">
                                 <div class="flip-card-front">
-                                    <h3 class="card-title vertical">Bank onboarding / Audit</h3>
+                                    <h3 class="card-title vertical">Bank onboarding/Audit</h3>
                                 </div>
                                 <div class="flip-card-back">
                                     <h6 class="vertical-body">We assist with your bank onboarding and also prep you for the banking audit process by helping you gather all the necessary reports/documents to be presented for the audit.</p>
@@ -128,7 +128,7 @@
                                     <h3 class="card-title vertical">Training</h3>
                                 </div>
                                 <div class="flip-card-back">
-                                    <h6 class="vertical-body">We draft the training manual as well as the annual training courses for your company and we can also provide training to your compliance officer, the board of directors, AML specialists or the 1st line of defense. <br><br> </p>
+                                    <h6 class="vertical-body">We draft the training manual as well as the annual training courses for your company and we also provide training to your compliance officer, the board of directors, AML specialists or the 1st line of defense. <br><br> </p>
                                 </div>
                             </div>
                         </div>

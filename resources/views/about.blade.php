@@ -13,11 +13,11 @@
             <h1>About</h1>
         </center>
         <br>
-        <p> Reliance Compliance Solutions Inc. (RCS) is a consulting company based in Toronto, Ontario with a focus on delivering exceptional compliance solutions to various reporting entities such as Banks, Credit Unions, MSBs and Virtual currency dealers.<br><br>Our team of professionals can provide assistance in Regulatory Compliance, Anti Money Laundering, Counter Terrorist Financing. We help our clients be compliant with Canadian regulations by focusing on building a comprehensive Compliance / AML program. We offer a variety of services such as:</p>
+        <p> Reliance Compliance Solutions Inc. (RCS) is a consulting company based in Toronto, Ontario with a focus on delivering exceptional compliance solutions to various reporting entities such as Banks, Credit Unions, MSBs and Virtual currency dealers.<br><br>Our team of professionals can provide assistance in Regulatory Compliance, Anti Money Laundering, and Counter Terrorist Financing. We help our clients be compliant with Canadian regulations by focusing on building a comprehensive Compliance/AML program. We offer a variety of services such as:</p>
         <ul class="list-unstyled li-space-lg">
             <li class="media">
                 <i class="fas fa-square"></i>
-                <div class="media-body">AML / Compliance regime development</div>
+                <div class="media-body">AML/Compliance regime development</div>
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>
@@ -33,7 +33,7 @@
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>
-                <div class="media-body">Bank onboarding / Audit</div>
+                <div class="media-body">Bank onboarding/Audit</div>
             </li>
             <li class="media">
                 <i class="fas fa-square"></i>

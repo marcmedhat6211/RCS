@@ -31,7 +31,7 @@
                         <h3 class="card-title">Credit Unions</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/sectors/Credit Union.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/sectors/Credit-Union.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -42,7 +42,7 @@
                         <h3 class="card-title">Payment Services</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/sectors/Payment Services.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/sectors/Payment-Services.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -54,7 +54,7 @@
                         <h3 class="card-title">Dealers in Virtual Currencies</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/sectors/Virtual Currencies.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/sectors/Virtual-Currencies.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -62,10 +62,10 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-body">
-                        <h3 class="card-title">Money Services Business</h3>
+                        <h3 class="card-title">Money Service Businesses</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/sectors/RCS MSB.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/sectors/RCS-MSB.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -76,7 +76,7 @@
                         <h3 class="card-title">Dealers in Precious Metals & Stones</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/sectors/Metals and Stones.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/sectors/Metals-and-Stones.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -87,7 +87,7 @@
                         <h3 class="card-title">Accounting Services</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/sectors/accounting services 1.jpg" alt="alternative">
+                        <img class="img-fluid" src="images/sectors/accounting-services.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
@@ -99,7 +99,7 @@
                         <h3 class="card-title">Securities Dealers</h3>
                     </div>
                     <div class="card-image">
-                        <img class="img-fluid" src="images/sectors/securities dealers" alt="alternative">
+                        <img class="img-fluid" src="images/sectors/securities-dealers.jpg" alt="alternative">
                     </div>
                 </div>
                 <!-- end of card -->
