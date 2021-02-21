@@ -29,7 +29,7 @@
     <link href="{{ asset('css/fontawesome-all.css') }}" type="text/css" rel="stylesheet">
     <link href="{{ asset('css/swiper.css') }}" type="text/css" rel="stylesheet">
 	<link href="{{ asset('css/magnific-popup.css') }}" type="text/css" rel="stylesheet">
-	<link href="{{ asset('css/styles.css') }}" type="text/css" rel="stylesheet">
+	<link href="{{ asset('css/styles.css?modified=20012009') }}" type="text/css" rel="stylesheet">
 	
 	<!-- Favicon  -->
     <!-- <link rel="icon" href="{{ asset('public/images/favicon.png') }}"> -->

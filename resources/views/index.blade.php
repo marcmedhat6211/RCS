@@ -51,7 +51,7 @@
                     <h3>Why Us</h3>
                 </div>
                 <div class="intro-content">
-                    <p>Our team of certified AML specialists has over 10 years experience in the industry and is ready to assist you with all your compliance and AML needs. We have a passion for helping others and seeing them succeed. Let's get you on the right track, let's get you compliant!</p>
+                    <p>Our team of certified AML specialists has over 10 years experience in the industry and is ready to assist you with all your compliance and AML needs. We have a passion for helping others and seeing them succeed. Let us get you on the right track, let us get you compliant!</p>
                 </div>
                 <div class="intro-action-button">
                     <a class="btn-solid-lg page-scroll" href="/about#team">THE TEAM</a>
@@ -94,12 +94,12 @@
                     <h3>Why Us</h3>
                 </div>
                 <div class="intro-content">
-                    <p>Our team of certified AML specialists has over 10 years experience in the industry and is ready to assist you with all your compliance and AML needs. We have a passion for helping others and seeing them succeed. Let's get you on the right track, let's get you compliant!</p>
+                    <p>Our team of certified AML specialists has over 10 years experience in the industry and is ready to assist you with all your compliance and AML needs. We have a passion for helping others and seeing them succeed. Let us get you on the right track, let us get you compliant!</p>
                 </div>
             </div>
         </div>
         <div class="intro-action-buttons">
-            <div class="container">
+            <div class="container pl-0">
                 <div class="row">
                     <div class="col-lg-3">
                         <a class="btn-solid-lg page-scroll" href="/about">ABOUT US</a>
@@ -107,10 +107,10 @@
                     <div class="col-lg-3">
                         <a class="btn-solid-lg page-scroll" href="/sectors">SECTORS</a>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-lg-3 pl-4">
                         <a class="btn-solid-lg page-scroll" href="/services">SERVICES</a>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-lg-3 pl-4">
                         <a class="btn-solid-lg page-scroll" href="/about#team">THE TEAM</a>
                     </div>
                 </div>
