@@ -1,13 +1,5 @@
     @extends('layouts.app')
     @section('content')
-    <style>
-    .content {
-        max-width: 500px;
-        margin: auto;
-        background: white;
-        padding: 10px;
-    }
-    </style>
     <div id="services" class="cards-2">
         <div class="container">
             <div class="row">
@@ -128,7 +120,7 @@
                                     <h3 class="card-title vertical">Training</h3>
                                 </div>
                                 <div class="flip-card-back">
-                                    <h6 class="vertical-body">We draft the training manual as well as the annual training courses for your company and we also provide training to your compliance officer, the board of directors, AML specialists or the 1st line of defense. <br><br> </p>
+                                    <h6 class="vertical-body">We draft the training manual as well as the annual training courses for your company. We also provide training to your compliance officer, the board of directors, AML specialists and the 1st line of defense. <br><br> </p>
                                 </div>
                             </div>
                         </div>

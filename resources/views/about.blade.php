@@ -75,14 +75,14 @@
                         <img class="team-img" src="images/team/headshot_13.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Peter Morcos</strong></p>
-                    <p style="font-size: 18px;"><strong>Founder & CEO</strong></p>
+                    <p style="font-size: 18px;"><strong>Founder, CEO & CAMLO</strong></p>
                 </div> <!-- end of team-member -->
                 <!-- end of team member -->
                 
                 <!-- Team Member -->
                 <div class="team-member">
                     <div class="image-wrapper">
-                        <img class="team-img" src="images/team/john 2.jpg" alt="alternative">
+                        <img class="team-img" src="images/team/john.jpeg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>John Morcos</strong></p>
                     <p style="font-size: 18px;"><strong>Financial Controller</strong></p>
@@ -98,19 +98,6 @@
                     <p style="font-size: 18px;"><strong>AMF Respondent</strong></p>
                 </div> <!-- end of team-member -->
                 <!-- end of team member -->
-
-                <!-- Team Member -->
-                <div class="team-member">
-                    <br>
-                    <div class="image-wrapper">
-                        <img class="team-img" src="images/team/me-removebg-preview.jpg" alt="alternative">
-                    </div> <!-- end of image wrapper -->
-                    <p style="font-size: 18px;"><strong>Marc Medhat</strong></p>
-                    <p style="font-size: 18px;"><strong>Compliance Analyst</strong></p>
-                </div> <!-- end of team-member -->
-                <!-- end of team member -->
-
-
 
             </div> <!-- end of col -->
         </div> <!-- end of row -->

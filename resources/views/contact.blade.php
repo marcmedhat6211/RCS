@@ -34,18 +34,18 @@
         <h1 style="text-align: center">Contact Us</h1>
     <br><br>
     <div class="container">
+        <p>Where does your business need more support? We offer a broad range of services and packages that can
+            be
+            customized to your needs. Send us a message today, and we can start you on a path to success.
+        </p>
         <div class="row">
-            <div class="col-lg-5">
+            <div class="col-lg-5 order-2">
                 <div class="text-container" id="info">
-                    <p>Where does your business need more support? We offer a broad range of services and packages that can
-                        be
-                        customized to your needs. Send us a message today, and we can start you on a path to success.
-                    </p>
                     <br>
                     <h3>Reliance Compliance Solutions</h3>
                     <ul class="list-unstyled li-space-lg">
                         <li class="address"><i class="fas fa-map-marker-alt"></i> 3080 Yonge Street, Toronto, Ontario
-                            M4N 2K6, Canada</li>
+                            M4N 3N1, Canada</li>
                         <li><i class="fas fa-envelope"></i><a href="mailto:info@reliancecompliance.ca">
                                 info@reliancecompliance.ca</a></li>
                     </ul>
@@ -53,7 +53,7 @@
                     <a class="btn-solid-lg page-scroll" href="/contact-form">Schedule a Consultation</a>
                 </div> <!-- end of text-container -->
             </div> <!-- end of col -->
-            <div class="col-lg-7">
+            <div class="col-lg-7 order-lg-2">
                 <div class="image-container">
                     <img class="contact-img" src="images/Contact us.jpg" alt="alternative">
                 </div> <!-- end of image-container -->
