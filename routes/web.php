@@ -39,6 +39,11 @@ Route::get('/contact-form', function() {
     return view('contact-form');
 });
 
+/*CONTACT FORM ROUTE*/
+Route::get('/team-details', function() {
+    return view('team-details');
+});
+
 /*CONTACT ROUTE*/
 Route::get('/contact', [ContactController::class, 'contact']);
 

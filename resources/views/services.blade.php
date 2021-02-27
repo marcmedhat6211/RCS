@@ -24,7 +24,7 @@
                                 </div>
                                 <div class="flip-card-back">
                                     <div class="container">
-                                        <h6 class="vertical-body">We build up your AML/Compliance program by drafting up the required policies and procedures like AML/CTF manual, Risk assessment, Sanctions and ABC. We also assist in amending your current ones to be compliant with the current regulations. <br><br></h6>
+                                        <h6 class="vertical-body">We build your AML/Compliance program by drafting up the required policies and procedures like AML/CTF manual, Risk assessment, Sanctions and ABC. We also assist in amending your current ones to be compliant with the current regulations. <br><br></h6>
                                     </div>
                                 </div>
                             </div>
@@ -184,7 +184,7 @@
                                 </div>
                                 <div class="flip-card-back">
                                     <div class="container">
-                                        <h6 class="vertical-body">We introduce your business to our approved third party vendors that can assist with the automation of KYC or transaction monitoring to meet the regulatory requirements.</h6>
+                                        <h6 class="vertical-body">We introduce your business to our approved third party vendors who can assist with the automation of KYC or transaction monitoring to meet the regulatory requirements.</h6>
                                     </div>
                                 </div>
                             </div>

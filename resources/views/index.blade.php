@@ -15,7 +15,7 @@
                     <h3>Who We Are</h3>
                 </div>
                 <div class="intro-content">
-                    <p>Reliance Compliance Solutions Inc. (RCS) is a consulting company based in Toronto, Ontario with a focus on delivering exceptional compliance solutions to various reporting entities. We specialize in Regulatory compliance, Anti Money Laundering, and Counter Terrorist Financing</p>
+                    <p>Reliance Compliance Solutions Inc. (RCS) is a consulting company based in Toronto, Ontario with a focus on delivering exceptional compliance solutions to various reporting entities. We specialize in regulatory compliance, anti-money laundering, and counter terrorist financing.</p>
                 </div>
                 <div class="intro-action-button">
                     <a class="btn-solid-lg page-scroll" href="/about">ABOUT US</a>
@@ -39,7 +39,7 @@
                     <h3>What We Do</h3>
                 </div>
                 <div class="intro-content">
-                    <p>RCS' goal is to help you safeguard your success and educate you on the latest regulatory requirements. We offer various services that would cover all your compliance needs from building an AML program from the ground up to managing your existing compliance programs.</p>
+                    <p>RCS's goal is to help you safeguard your success and educate you on the latest regulatory requirements. We offer various services that would cover all your compliance needs from building an AML program from the ground up to managing your existing compliance programs.</p>
                 </div>
                 <div class="intro-action-button">
                     <a class="btn-solid-lg page-scroll" href="/services">SERVICES</a>
@@ -70,7 +70,7 @@
                     <h3>Who We Are</h3>
                 </div>
                 <div class="intro-content">
-                    <p>Reliance Compliance Solutions Inc. (RCS) is a consulting company based in Toronto, Ontario with a focus on delivering exceptional compliance solutions to various reporting entities. We specialize in Regulatory compliance, Anti Money Laundering, and Counter Terrorist Financing</p>
+                    <p>Reliance Compliance Solutions Inc. (RCS) is a consulting company based in Toronto, Ontario with a focus on delivering exceptional compliance solutions to various reporting entities. We specialize in regulatory compliance, anti-money laundering, and counter terrorist financing.</p>
                 </div>
             </div>
             <div class="col-lg-3">
@@ -86,7 +86,7 @@
                     <h3>What We Do</h3>
                 </div>
                 <div class="intro-content">
-                    <p>RCS' goal is to help you safeguard your success and educate you on the latest regulatory requirements. We offer various services that would cover all your compliance needs from building an AML program from the ground up to managing your existing compliance programs.</p>
+                    <p>RCS's goal is to help you safeguard your success and educate you on the latest regulatory requirements. We offer various services that would cover all your compliance needs from building an AML program from the ground up to managing your existing compliance programs.</p>
                 </div>
             </div>
             <div class="col-lg-3">
