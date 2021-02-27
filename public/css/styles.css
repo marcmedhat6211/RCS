@@ -2634,6 +2634,7 @@ a:hover.back-to-top {
     -webkit-backface-visibility: hidden;
     /* Safari */
     backface-visibility: hidden;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 
@@ -2667,7 +2668,7 @@ a:hover.back-to-top {
 
 .team-img {
     border-radius: 50%;
-    width: 100%;
+    width: 240px;
     height: 240px;
 }
 
@@ -2707,8 +2708,7 @@ a:hover.back-to-top {
 }
 
 .desktop-intro {
-    margin-top: 100px;
-    margin-bottom: 200px;
+    padding: 100px 0 100px 0;
 }
 
 .desktop-intro .intro-title h3 {

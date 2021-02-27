@@ -66,38 +66,41 @@
             </div> <!-- end of col -->
         </div> <!-- end of row -->
         <div class="row">
-            <div class="col-lg-12">
-
+            <div class="col-lg-4 pr-0 pl-0">
                 <!-- Team Member -->
-                <div class="team-member">
-                    <br>
+                <!-- <div class="team-member"> -->
                     <div class="image-wrapper">
                         <img class="team-img" src="images/team/headshot_13.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Peter Morcos</strong></p>
                     <p style="font-size: 18px;"><strong>Founder, CEO & CAMLO</strong></p>
-                </div> <!-- end of team-member -->
+                <!-- </div> end of team-member -->
                 <!-- end of team member -->
+            </div>
                 
+            <div class="col-lg-4 pr-0 pl-0">
                 <!-- Team Member -->
-                <div class="team-member">
+                <!-- <div class="team-member"> -->
                     <div class="image-wrapper">
                         <img class="team-img" src="images/team/john.jpeg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>John Morcos</strong></p>
                     <p style="font-size: 18px;"><strong>Financial Controller</strong></p>
-                </div> <!-- end of team-member -->
+                <!-- </div> end of team-member -->
                 <!-- end of team member -->
+            </div>
 
+            <div class="col-lg-4 pr-0 pl-0">
                 <!-- Team Member -->
-                <div class="team-member">
+                <!-- <div class="team-member"> -->
                     <div class="image-wrapper">
                         <img class="team-img" src="images/team/JF.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Jean-François Lefebvre</strong></p>
                     <p style="font-size: 18px;"><strong>AMF Respondent</strong></p>
-                </div> <!-- end of team-member -->
+                <!-- </div> end of team-member -->
                 <!-- end of team member -->
+            </div>
 
             </div> <!-- end of col -->
         </div> <!-- end of row -->
@@ -115,28 +118,30 @@
                 <br>
             </div> <!-- end of col -->
         </div> <!-- end of row -->
-        <div class="row">
-            <div class="col-lg-12">
-
+        <div class="row d-flex justify-content-center">
+            <div class="col-lg-4 pr-0 pl-0">
                 <!-- Team Member -->
-                <div class="team-member">
+                <!-- <div class="team-member"> -->
                     <div class="image-wrapper">
                         <img style="margin-bottom: 10px;" class="team-img" src="images/team/0-removebg-preview.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Claudius Otegbade</strong></p>
                     <p style="font-size: 18px;"><strong>AML Advisor</strong></p>
-                </div> <!-- end of team-member -->
+                <!-- </div> end of team-member -->
                 <!-- end of team member -->
+            </div>
 
+            <div class="col-lg-4 pr-0 pl-0">
                 <!-- Team Member -->
-                <div class="team-member">
+                <!-- <div class="team-member"> -->
                     <div class="image-wrapper">
                         <img style="margin-bottom: 10px;" class="team-img" src="images/team/Lekan-removebg-preview2.jpg" alt="alternative">
                     </div> <!-- end of image wrapper -->
                     <p style="font-size: 18px;"><strong>Olalekan Olatunji</strong></p>
                     <p style="font-size: 18px;"><strong>AML Advisor</strong></p>
-                </div> <!-- end of team-member -->
+                <!-- </div> end of team-member -->
                 <!-- end of team member -->
+            </div>
 
             </div> <!-- end of col -->
         </div> <!-- end of row -->
